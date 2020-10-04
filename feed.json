@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://shawnyeager.micro.blog/2020/10/02/autumn-has-arrived.html",
+				
+				"content_html": "<p>Autumn has arrived in Nashville. Hoodie + latte time.</p>\n\n<p><img src=\"uploads/2020/fbfac99c41.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
+				"content_text": "Autumn has arrived in Nashville. Hoodie + latte time.\n\n<img src=\"uploads/2020/fbfac99c41.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"date_published": "2020-10-02T18:01:30-05:00",
+				"url": "https://feed.shawnyeager.com/2020/10/02/autumn-has-arrived.html"
+			},
+			{
+				"id": "http://shawnyeager.micro.blog/2020/10/02/i-tapped-shuffle.html",
+				
+				"content_html": "<p>I tapped shuffle and this played first; seems eerily prescient this year, on this day.</p>\n\n<p>“<a href=\"https://music.apple.com/us/album/one-of-them-years/1494371579?i=1494371580\">One of Them Years</a>” by Matthew Good</p>\n\n<p>🎶</p>\n",
+				"content_text": "I tapped shuffle and this played first; seems eerily prescient this year, on this day. \n\n“[One of Them Years](https://music.apple.com/us/album/one-of-them-years/1494371579?i=1494371580)” by Matthew Good\n\n🎶 \n",
+				"date_published": "2020-10-02T16:57:27-05:00",
+				"url": "https://feed.shawnyeager.com/2020/10/02/i-tapped-shuffle.html"
+			},
+			{
+				"id": "http://shawnyeager.micro.blog/2020/10/01/it-isnt-enough.html",
+				
+				"content_html": "<p>“It isn’t enough for your heart to break because everybody’s heart is broken now.” —Allen Ginsberg, Indian Journals, entry for September 6, 1962</p>\n\n<p>💬</p>\n",
+				"content_text": "“It isn’t enough for your heart to break because everybody’s heart is broken now.” —Allen Ginsberg, Indian Journals, entry for September 6, 1962\n\n💬\n",
+				"date_published": "2020-10-01T20:14:30-05:00",
+				"url": "https://feed.shawnyeager.com/2020/10/01/it-isnt-enough.html"
+			},
+			{
 				"id": "http://shawnyeager.micro.blog/2020/09/20/the-greatest-tragedy.html",
 				
 				"content_html": "<p>&ldquo;The greatest tragedy in mankind&rsquo;s entire history may be the hijacking of morality by religion.&rdquo; —Arthur C. Clarke</p>\n\n<p>💬</p>\n",
