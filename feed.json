@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://shawnyeager.micro.blog/2020/10/05/a-nice-touch.html",
+				
+				"content_html": "<p>A nice touch from <a href=\"https://www.eff.org/\">Electronic Frontier Foundation</a>. Especially now, I’m happy to be a supporter.</p>\n\n<p><img src=\"uploads/2020/3111c0a0cc.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "A nice touch from [Electronic Frontier Foundation](https://www.eff.org/). Especially now, I’m happy to be a supporter. \n\n\n<img src=\"uploads/2020/3111c0a0cc.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2020-10-05T21:50:48-05:00",
+				"url": "https://feed.shawnyeager.com/2020/10/05/a-nice-touch.html"
+			},
+			{
 				"id": "http://shawnyeager.micro.blog/2020/10/02/autumn-has-arrived.html",
 				
 				"content_html": "<p>Autumn has arrived in Nashville. Hoodie + latte time.</p>\n\n<p><img src=\"uploads/2020/fbfac99c41.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
