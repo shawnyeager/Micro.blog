@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://shawnyeager.micro.blog/2020/10/30/a-mind-that.html",
+				
+				"content_html": "<p>“A mind that is stretched by new experience can never go back to its old dimensions.”\n―Oliver Wendell Holmes</p>\n\n<p>💬</p>\n",
+				"content_text": "“A mind that is stretched by new experience can never go back to its old dimensions.”\n―Oliver Wendell Holmes\n\n💬\n",
+				"date_published": "2020-10-30T13:17:22-05:00",
+				"url": "https://feed.shawnyeager.com/2020/10/30/a-mind-that.html"
+			},
+			{
+				"id": "http://shawnyeager.micro.blog/2020/10/23/downtown-nashville.html",
+				
+				"content_html": "<p>Downtown Nashville</p>\n\n<p><img src=\"uploads/2020/4d5a8a04eb.jpg\" width=\"600\" height=\"471\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
+				"content_text": "Downtown Nashville\n\n<img src=\"uploads/2020/4d5a8a04eb.jpg\" width=\"600\" height=\"471\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"date_published": "2020-10-23T14:21:37-05:00",
+				"url": "https://feed.shawnyeager.com/2020/10/23/downtown-nashville.html"
+			},
+			{
 				"id": "http://shawnyeager.micro.blog/2020/10/19/hang-in-there.html",
 				
 				"content_html": "<p>Hang in there.</p>\n\n<p><img src=\"uploads/2020/888ee3fd4e.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
