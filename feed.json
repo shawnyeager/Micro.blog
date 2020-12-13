@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://shawnyeager.micro.blog/2020/12/13/the-social-life.html",
+				
+				"content_html": "<p>“<a href=\"https://www.nytimes.com/interactive/2020/12/02/magazine/tree-communication-mycorrhiza.html\">The Social Life of Forests</a>,” in the New York Times, is my favorite science-related long read in a very long time. Fascinating.</p>\n\n<blockquote>\n<p>An old-growth forest is neither an assemblage of stoic organisms tolerating one another’s presence nor a merciless battle royale: It’s a vast, ancient and intricate society. There is conflict in a forest, but there is also negotiation, reciprocity and perhaps even selflessness.</p>\n</blockquote>\n",
+				"content_text": "“[The Social Life of Forests](https://www.nytimes.com/interactive/2020/12/02/magazine/tree-communication-mycorrhiza.html),” in the New York Times, is my favorite science-related long read in a very long time. Fascinating. \n\n> An old-growth forest is neither an assemblage of stoic organisms tolerating one another’s presence nor a merciless battle royale: It’s a vast, ancient and intricate society. There is conflict in a forest, but there is also negotiation, reciprocity and perhaps even selflessness.\n",
+				"date_published": "2020-12-13T10:09:03+01:00",
+				"url": "https://yeager.wtf/2020/12/13/the-social-life.html"
+			},
+			{
+				"id": "http://shawnyeager.micro.blog/2020/12/11/the-punchline-of.html",
+				
+				"content_html": "<p>&ldquo;The punchline of life, really, is that you can’t become happy. You can only be happy.&rdquo; —Sam Harris</p>\n\n<p>💬</p>\n",
+				"content_text": "\"The punchline of life, really, is that you can’t become happy. You can only be happy.\" —Sam Harris\n\n💬\n",
+				"date_published": "2020-12-11T08:35:10+01:00",
+				"url": "https://yeager.wtf/2020/12/11/the-punchline-of.html"
+			},
+			{
+				"id": "http://shawnyeager.micro.blog/2020/12/06/arguing-that-you.html",
+				
+				"content_html": "<blockquote>\n<p>Arguing that you don’t care about privacy because you have nothing to hide is like arguing that you don’t care about free speech because you have nothing to say…</p>\n\n<p>If we don’t have privacy, what we’re losing is the ability to make mistakes, we’re losing the ability to be ourselves. Privacy is the fountainhead of all other rights.</p>\n</blockquote>\n\n<p>—Edward Snowden</p>\n\n<p>💬</p>\n",
+				"content_text": "> Arguing that you don’t care about privacy because you have nothing to hide is like arguing that you don’t care about free speech because you have nothing to say…\n\n> If we don’t have privacy, what we’re losing is the ability to make mistakes, we’re losing the ability to be ourselves. Privacy is the fountainhead of all other rights.\n\n—Edward Snowden\n\n💬\n",
+				"date_published": "2020-12-06T19:19:27+01:00",
+				"url": "https://yeager.wtf/2020/12/06/arguing-that-you.html"
+			},
+			{
 				"id": "http://shawnyeager.micro.blog/2020/12/05/todays-view-from.html",
 				
 				"content_html": "<p>Today’s view from the northern tip of Africa</p>\n\n<p><img src=\"uploads/2020/e8c3d07f14.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2020/b4c5995e37.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
