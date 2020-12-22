@@ -7,10 +7,26 @@
 	"items": [
 		
 			{
+				"id": "http://shawnyeager.micro.blog/2020/12/22/december-in-tangier.html",
+				
+				"content_html": "<p>December in Tangier is a bit different than Nashville.</p>\n\n<p><img src=\"uploads/2020/c3ba5674e3.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "December in Tangier is a bit different than Nashville.\n\n<img src=\"uploads/2020/c3ba5674e3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-12-22T17:29:28+01:00",
+				"url": "https://yeager.wtf/2020/12/22/december-in-tangier.html"
+			},
+			{
+				"id": "http://shawnyeager.micro.blog/2020/12/15/the-view-from.html",
+				
+				"content_html": "<p>The view at dinner tonight</p>\n\n<p><img src=\"uploads/2020/01efbdafa6.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "The view at dinner tonight\n\n<img src=\"uploads/2020/01efbdafa6.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2020-12-15T22:44:00+01:00",
+				"url": "https://yeager.wtf/2020/12/15/the-view-from.html"
+			},
+			{
 				"id": "http://shawnyeager.micro.blog/2020/12/13/the-social-life.html",
 				
-				"content_html": "<p>“<a href=\"https://www.nytimes.com/interactive/2020/12/02/magazine/tree-communication-mycorrhiza.html\">The Social Life of Forests</a>,” in the New York Times, is my favorite science-related long read in a very long time. Fascinating.</p>\n\n<blockquote>\n<p>An old-growth forest is neither an assemblage of stoic organisms tolerating one another’s presence nor a merciless battle royale: It’s a vast, ancient and intricate society. There is conflict in a forest, but there is also negotiation, reciprocity and perhaps even selflessness.</p>\n</blockquote>\n",
-				"content_text": "“[The Social Life of Forests](https://www.nytimes.com/interactive/2020/12/02/magazine/tree-communication-mycorrhiza.html),” in the New York Times, is my favorite science-related long read in a very long time. Fascinating. \n\n> An old-growth forest is neither an assemblage of stoic organisms tolerating one another’s presence nor a merciless battle royale: It’s a vast, ancient and intricate society. There is conflict in a forest, but there is also negotiation, reciprocity and perhaps even selflessness.\n",
+				"content_html": "<p>“<a href=\"https://www.nytimes.com/interactive/2020/12/02/magazine/tree-communication-mycorrhiza.html\">The Social Life of Forests</a>,” in the New York Times, is my favorite science long read in a very long time. Fascinating.</p>\n\n<blockquote>\n<p>An old-growth forest is neither an assemblage of stoic organisms tolerating one another’s presence nor a merciless battle royale: It’s a vast, ancient and intricate society. There is conflict in a forest, but there is also negotiation, reciprocity and perhaps even selflessness.</p>\n</blockquote>\n",
+				"content_text": "“[The Social Life of Forests](https://www.nytimes.com/interactive/2020/12/02/magazine/tree-communication-mycorrhiza.html),” in the New York Times, is my favorite science long read in a very long time. Fascinating. \n\n> An old-growth forest is neither an assemblage of stoic organisms tolerating one another’s presence nor a merciless battle royale: It’s a vast, ancient and intricate society. There is conflict in a forest, but there is also negotiation, reciprocity and perhaps even selflessness.\n",
 				"date_published": "2020-12-13T10:09:03+01:00",
 				"url": "https://yeager.wtf/2020/12/13/the-social-life.html"
 			},
@@ -170,9 +186,9 @@
 			{
 				"id": "http://shawnyeager.micro.blog/2020/11/15/bouregrag-rabat-morocco.html",
 				
-				"content_html": "<p>The view from dinner last night in Bouregrag, Rabat, Morocco</p>\n\n<p><img src=\"uploads/2020/a208a75c33.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2020/26fc5da8fc.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2020/29120d399b.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2020/6d80c9a0bf.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "The view from dinner last night in Bouregrag, Rabat, Morocco\n\n\n<img src=\"uploads/2020/a208a75c33.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2020/26fc5da8fc.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2020/29120d399b.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2020/6d80c9a0bf.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
-				"date_published": "2020-11-15T10:28:48+01:00",
+				"content_html": "<p>The view at dinner last night in Bouregrag, Rabat, Morocco</p>\n\n<p><img src=\"uploads/2020/a208a75c33.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2020/26fc5da8fc.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2020/29120d399b.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2020/6d80c9a0bf.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "The view at dinner last night in Bouregrag, Rabat, Morocco\n\n\n<img src=\"uploads/2020/a208a75c33.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2020/26fc5da8fc.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2020/29120d399b.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2020/6d80c9a0bf.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2020-11-15T10:28:00+01:00",
 				"url": "https://yeager.wtf/2020/11/15/bouregrag-rabat-morocco.html"
 			},
 			{
