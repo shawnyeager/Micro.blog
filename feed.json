@@ -7,6 +7,55 @@
 	"items": [
 		
 			{
+				"id": "http://shawnyeager.micro.blog/2020/12/29/straight-of-gibraltar.html",
+				
+				"content_html": "<p>Straight of Gibraltar</p>\n\n<p><img src=\"uploads/2020/417d1e3e2d.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Straight of Gibraltar\n\n<img src=\"uploads/2020/417d1e3e2d.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2020-12-29T17:51:05+01:00",
+				"url": "https://yeager.wtf/2020/12/29/straight-of-gibraltar.html"
+			},
+			{
+				"id": "http://shawnyeager.micro.blog/2020/12/27/au-revoir-zuck.html",
+				
+				"content_html": "<p>Au revoir, Zuck. It’s been real.</p>\n\n<p><img src=\"uploads/2020/e5dfc2895a.jpg\" width=\"553\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Au revoir, Zuck. It’s been real.\n\n<img src=\"uploads/2020/e5dfc2895a.jpg\" width=\"553\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-12-27T17:53:35+01:00",
+				"url": "https://yeager.wtf/2020/12/27/au-revoir-zuck.html"
+			},
+			{
+				"id": "http://shawnyeager.micro.blog/2020/12/27/more.html",
+				
+				"content_html": "<p>More 🌝</p>\n\n<p><img src=\"uploads/2020/79627bf051.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "More 🌝\n\n<img src=\"uploads/2020/79627bf051.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-12-27T17:23:55+01:00",
+				"url": "https://yeager.wtf/2020/12/27/more.html"
+			},
+			{
+				"id": "http://shawnyeager.micro.blog/2020/12/27/patriotism-is-a.html",
+				
+				"content_html": "<p>&ldquo;Patriotism is a kind of religion; it is the egg from which wars are hatched.&rdquo;\n—<a href=\"https://en.wikipedia.org/wiki/Guy_de_Maupassant\">Guy de Maupassant</a></p>\n\n<p>💬</p>\n",
+				"content_text": "\"Patriotism is a kind of religion; it is the egg from which wars are hatched.\"\n—[Guy de Maupassant](https://en.wikipedia.org/wiki/Guy_de_Maupassant)\n\n💬\n",
+				"date_published": "2020-12-27T07:12:29+01:00",
+				"url": "https://yeager.wtf/2020/12/27/patriotism-is-a.html"
+			},
+			{
+				"id": "http://shawnyeager.micro.blog/2020/12/26/moon-sky-and.html",
+				
+				"content_html": "<p>Sky, sea, and moon</p>\n\n<p><img src=\"uploads/2020/f0a0993bf9.jpg\" width=\"600\" height=\"599\" alt=\"\" /><img src=\"uploads/2020/8ab5594f3a.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Sky, sea, and moon\n\n<img src=\"uploads/2020/f0a0993bf9.jpg\" width=\"600\" height=\"599\" alt=\"\" /><img src=\"uploads/2020/8ab5594f3a.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2020-12-26T17:43:20+01:00",
+				"url": "https://yeager.wtf/2020/12/26/moon-sky-and.html"
+			},
+			{
+				"id": "http://shawnyeager.micro.blog/2020/12/22/after-searching-for.html",
+				
+				"content_html": "<p>After searching for weeks, I found – in a Tangier book store, no less – what looks like a great English language book on Moroccan history. With a subtitle like this, I had to buy it.</p>\n\n<p><em><a href=\"https://www.goodreads.com/book/show/43804390-tangier\">Tangier: From the Romans to The Rolling Stones</a></em></p>\n\n<p><img src=\"uploads/2020/b482a7efa0.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n\n<p>📚</p>\n",
+				"content_text": "After searching for weeks, I found – in a Tangier book store, no less – what looks like a great English language book on Moroccan history. With a subtitle like this, I had to buy it. \n\n*[Tangier: From the Romans to The Rolling Stones](https://www.goodreads.com/book/show/43804390-tangier)*\n\n<img src=\"uploads/2020/b482a7efa0.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n\n📚\n",
+				"date_published": "2020-12-22T19:55:12+01:00",
+				"url": "https://yeager.wtf/2020/12/22/after-searching-for.html",
+				"tags": ["Books"]
+			},
+			{
 				"id": "http://shawnyeager.micro.blog/2020/12/22/december-in-tangier.html",
 				
 				"content_html": "<p>December in Tangier is a bit different than Nashville.</p>\n\n<p><img src=\"uploads/2020/c3ba5674e3.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
