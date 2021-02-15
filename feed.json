@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://shawnyeager.micro.blog/2021/02/15/a-thing-is.html",
+				
+				"content_html": "<p>“A thing is not necessarily true because a man dies for it.” —Oscar Wilde</p>\n\n<p>💬</p>\n",
+				"content_text": "“A thing is not necessarily true because a man dies for it.” —Oscar Wilde\n\n💬\n",
+				"date_published": "2021-02-15T10:12:38+01:00",
+				"url": "https://yeager.wtf/2021/02/15/a-thing-is.html"
+			},
+			{
+				"id": "http://shawnyeager.micro.blog/2021/02/13/beauty-and-the.html",
+				
+				"content_html": "<p>Beauty and the beast</p>\n\n<p><img src=\"uploads/2021/65ba02d6b3.jpg\" width=\"599\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Beauty and the beast\n\n<img src=\"uploads/2021/65ba02d6b3.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-02-13T19:01:16+01:00",
+				"url": "https://yeager.wtf/2021/02/13/beauty-and-the.html"
+			},
+			{
+				"id": "http://shawnyeager.micro.blog/2021/02/13/after-watching-the.html",
+				
+				"content_html": "<p>I watched the first episode when it released, but didn&rsquo;t get it. I’ve now redeemed myself, two years later. <a href=\"https://www.netflix.com/title/80117038?s=i&amp;trkid=13747225\">Big Mouth</a> is comedy gold.</p>\n\n<p>Coach Steve is life.</p>\n\n<p>📺</p>\n",
+				"content_text": "I watched the first episode when it released, but didn't get it. I’ve now redeemed myself, two years later. [Big Mouth](https://www.netflix.com/title/80117038?s=i&trkid=13747225) is comedy gold.\n\nCoach Steve is life.\n\n📺\n",
+				"date_published": "2021-02-13T09:07:00+01:00",
+				"url": "https://yeager.wtf/2021/02/13/after-watching-the.html"
+			},
+			{
+				"id": "http://shawnyeager.micro.blog/2021/02/09/stick-with-the.html",
+				
+				"content_html": "<p>“Stick with the people who pull the magic out of you and not the madness.” —Unknown</p>\n\n<p>💬</p>\n",
+				"content_text": "“Stick with the people who pull the magic out of you and not the madness.” —Unknown\n\n💬\n",
+				"date_published": "2021-02-09T07:26:25+01:00",
+				"url": "https://yeager.wtf/2021/02/09/stick-with-the.html"
+			},
+			{
 				"id": "http://shawnyeager.micro.blog/2021/02/06/from-a-hike.html",
 				
 				"content_html": "<p>From yesterday’s hike along the coastline of the Strait of Gibraltar, Merkala Beach, Tangier</p>\n\n<p><img src=\"uploads/2021/c370a6ad1c.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2021/a14788f546.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
