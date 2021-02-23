@@ -7,6 +7,55 @@
 	"items": [
 		
 			{
+				"id": "http://shawnyeager.micro.blog/2021/02/23/day.html",
+				
+				"content_html": "<p>🧺 day</p>\n\n<p><img src=\"uploads/2021/629e130351.jpg\" width=\"599\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "🧺 day\n\n<img src=\"uploads/2021/629e130351.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-02-23T14:12:30+01:00",
+				"url": "https://yeager.wtf/2021/02/23/day.html"
+			},
+			{
+				"id": "http://shawnyeager.micro.blog/2021/02/21/the-end-is.html",
+				
+				"content_html": "<p>“The end is nothing; the road is all.”\n—Willa Cather</p>\n\n<p>💬</p>\n",
+				"content_text": "“The end is nothing; the road is all.”\n—Willa Cather\n\n💬\n",
+				"date_published": "2021-02-21T19:33:17+01:00",
+				"url": "https://yeager.wtf/2021/02/21/the-end-is.html"
+			},
+			{
+				"id": "http://shawnyeager.micro.blog/2021/02/20/in-a-way.html",
+				
+				"content_html": "<p>“In a way, you’ve already won in this world, because you’re the only one who can be you.”\n—Fred Rogers</p>\n\n<p>💬</p>\n",
+				"content_text": "“In a way, you’ve already won in this world, because you’re the only one who can be you.”\n—Fred Rogers\n\n💬\n",
+				"date_published": "2021-02-20T11:39:08+01:00",
+				"url": "https://yeager.wtf/2021/02/20/in-a-way.html"
+			},
+			{
+				"id": "http://shawnyeager.micro.blog/2021/02/18/want-to-read.html",
+				
+				"content_html": "<blockquote>\n<p>To be human is finally to be a loser, for we are all fated to lose our carefully constructed sense of self, our physical strength, our health, our precious dignity, and finally our lives. A refusal to tolerate this reality is a refusal to tolerate life, and art based on the empowering message and positive image is just such a refusal.</p>\n</blockquote>\n\n<p>—Mary Gaitskill, <em><a href=\"https://micro.blog/books/9780307378224\">Somebody with a Little Hammer: Essays</a></em></p>\n\n<p>📚💬</p>\n",
+				"content_text": "> To be human is finally to be a loser, for we are all fated to lose our carefully constructed sense of self, our physical strength, our health, our precious dignity, and finally our lives. A refusal to tolerate this reality is a refusal to tolerate life, and art based on the empowering message and positive image is just such a refusal.\n\n—Mary Gaitskill, _[Somebody with a Little Hammer: Essays](https://micro.blog/books/9780307378224)_\n\n📚💬\n",
+				"date_published": "2021-02-18T11:33:47+01:00",
+				"url": "https://yeager.wtf/2021/02/18/want-to-read.html",
+				"tags": ["Books"]
+			},
+			{
+				"id": "http://shawnyeager.micro.blog/2021/02/17/fly-by-night.html",
+				
+				"content_html": "<p>Fly by night</p>\n\n<p><img src=\"uploads/2021/e1bc331f9e.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Fly by night\n\n<img src=\"uploads/2021/e1bc331f9e.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-02-17T21:33:51+01:00",
+				"url": "https://yeager.wtf/2021/02/17/fly-by-night.html"
+			},
+			{
+				"id": "http://shawnyeager.micro.blog/2021/02/16/i-could-spend.html",
+				
+				"content_html": "<p>I could spend days photographing doorways in Morocco. Each one is unique.</p>\n\n<p><img src=\"uploads/2021/10ac9a469f.jpg\" width=\"370\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "I could spend days photographing doorways in Morocco. Each one is unique.\n\n<img src=\"uploads/2021/10ac9a469f.jpg\" width=\"370\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-02-16T22:58:09+01:00",
+				"url": "https://yeager.wtf/2021/02/16/i-could-spend.html"
+			},
+			{
 				"id": "http://shawnyeager.micro.blog/2021/02/15/a-thing-is.html",
 				
 				"content_html": "<p>“A thing is not necessarily true because a man dies for it.” —Oscar Wilde</p>\n\n<p>💬</p>\n",
