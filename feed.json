@@ -7,10 +7,34 @@
 	"items": [
 		
 			{
+				"id": "http://shawnyeager.micro.blog/2021/03/03/dont-sell-your.html",
+				
+				"content_html": "<p>&ldquo;Don&rsquo;t sell your soul to buy peanuts for the monkeys.&rdquo; —Dorothy Salisbury Davis</p>\n",
+				"content_text": "\"Don't sell your soul to buy peanuts for the monkeys.\" —Dorothy Salisbury Davis\n",
+				"date_published": "2021-03-03T13:50:54+01:00",
+				"url": "https://yeager.wtf/2021/03/03/dont-sell-your.html"
+			},
+			{
+				"id": "http://shawnyeager.micro.blog/2021/02/27/he-who-is.html",
+				
+				"content_html": "<p>“He who is not everyday conquering some fear has not learned the secret of life.” —Ralph Waldo Emerson</p>\n\n<p>💬</p>\n",
+				"content_text": "“He who is not everyday conquering some fear has not learned the secret of life.” —Ralph Waldo Emerson\n\n💬\n",
+				"date_published": "2021-02-27T10:13:08+01:00",
+				"url": "https://yeager.wtf/2021/02/27/he-who-is.html"
+			},
+			{
+				"id": "http://shawnyeager.micro.blog/2021/02/24/the-nearer-a.html",
+				
+				"content_html": "<p>&ldquo;The nearer a man comes to a calm mind, the closer he is to strength.&rdquo;\n—Marcus Aurelius</p>\n\n<p>💬</p>\n",
+				"content_text": "\n\"The nearer a man comes to a calm mind, the closer he is to strength.\"\n—Marcus Aurelius\n\n💬\n",
+				"date_published": "2021-02-24T07:45:50+01:00",
+				"url": "https://yeager.wtf/2021/02/24/the-nearer-a.html"
+			},
+			{
 				"id": "http://shawnyeager.micro.blog/2021/02/23/day.html",
 				
-				"content_html": "<p>🧺 day</p>\n\n<p><img src=\"uploads/2021/629e130351.jpg\" width=\"599\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "🧺 day\n\n<img src=\"uploads/2021/629e130351.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>☀️ = 🧺 day</p>\n\n<p><img src=\"uploads/2021/629e130351.jpg\" width=\"599\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "☀️ = 🧺 day\n\n<img src=\"uploads/2021/629e130351.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-02-23T14:12:30+01:00",
 				"url": "https://yeager.wtf/2021/02/23/day.html"
 			},
