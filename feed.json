@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://shawnyeager.micro.blog/2021/04/24/has-it-ever.html",
+				
+				"content_html": "<p>“Has it ever struck you that life is all memory, except for the one present moment that goes by you so quick you hardly catch it going?” —Tennessee Williams</p>\n\n<p>💬</p>\n",
+				"content_text": "“Has it ever struck you that life is all memory, except for the one present moment that goes by you so quick you hardly catch it going?” —Tennessee Williams\n\n💬\n",
+				"date_published": "2021-04-24T10:02:49+00:00",
+				"url": "https://yeager.wtf/2021/04/24/has-it-ever.html"
+			},
+			{
 				"id": "http://shawnyeager.micro.blog/2021/04/14/here-is-the.html",
 				
 				"content_html": "<p>“Here is the world: beautiful and terrible things will happen. Don’t be afraid.”\n—Frederick Buechner</p>\n\n<p>💬</p>\n",
@@ -49,16 +57,16 @@
 			{
 				"id": "http://shawnyeager.micro.blog/2021/03/24/183854.html",
 				
-				"content_html": "<p><img src=\"https://yeager.wtf/uploads/2021/11eb3a3b99.jpg\" width=\"337\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"https://yeager.wtf/uploads/2021/11eb3a3b99.jpg\" width=\"337\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"uploads/2021/11eb3a3b99.jpg\" width=\"337\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2021/11eb3a3b99.jpg\" width=\"337\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-03-24T17:38:54+00:00",
 				"url": "https://yeager.wtf/2021/03/24/183854.html"
 			},
 			{
 				"id": "http://shawnyeager.micro.blog/2021/03/17/211113.html",
 				
-				"content_html": "<p>🌙</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2021/5c1f4bb084.jpg\" width=\"449\" height=\"600\" alt=\"\" /><img src=\"https://yeager.wtf/uploads/2021/bcbb0c4644.jpg\" width=\"600\" height=\"449\" alt=\"\" /></p>\n",
-				"content_text": "🌙 \n\n<img src=\"https://yeager.wtf/uploads/2021/5c1f4bb084.jpg\" width=\"449\" height=\"600\" alt=\"\" /><img src=\"https://yeager.wtf/uploads/2021/bcbb0c4644.jpg\" width=\"600\" height=\"449\" alt=\"\" />\n",
+				"content_html": "<p>🌙</p>\n\n<p><img src=\"uploads/2021/5c1f4bb084.jpg\" width=\"449\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/bcbb0c4644.jpg\" width=\"600\" height=\"449\" alt=\"\" /></p>\n",
+				"content_text": "🌙 \n\n<img src=\"uploads/2021/5c1f4bb084.jpg\" width=\"449\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/bcbb0c4644.jpg\" width=\"600\" height=\"449\" alt=\"\" />\n",
 				"date_published": "2021-03-17T20:11:13+00:00",
 				"url": "https://yeager.wtf/2021/03/17/211113.html"
 			},
@@ -81,16 +89,16 @@
 			{
 				"id": "http://shawnyeager.micro.blog/2021/03/16/sunset-ride.html",
 				
-				"content_html": "<p>Sunset ride</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2021/662af2a716.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Sunset ride\n\n<img src=\"https://yeager.wtf/uploads/2021/662af2a716.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Sunset ride</p>\n\n<p><img src=\"uploads/2021/662af2a716.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Sunset ride\n\n<img src=\"uploads/2021/662af2a716.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-03-16T18:44:18+00:00",
 				"url": "https://yeager.wtf/2021/03/16/sunset-ride.html"
 			},
 			{
 				"id": "http://shawnyeager.micro.blog/2021/03/14/it-was-a.html",
 				
-				"content_html": "<p>It was a beautiful day.</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2021/da6491c9ce.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://yeager.wtf/uploads/2021/ba5f6c93ba.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://yeager.wtf/uploads/2021/e17287b1d2.jpg\" width=\"600\" height=\"449\" alt=\"\" /></p>\n",
-				"content_text": "It was a beautiful day.\n\n<img src=\"https://yeager.wtf/uploads/2021/da6491c9ce.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://yeager.wtf/uploads/2021/ba5f6c93ba.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://yeager.wtf/uploads/2021/e17287b1d2.jpg\" width=\"600\" height=\"449\" alt=\"\" />\n",
+				"content_html": "<p>It was a beautiful day.</p>\n\n<p><img src=\"uploads/2021/da6491c9ce.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2021/ba5f6c93ba.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2021/e17287b1d2.jpg\" width=\"600\" height=\"449\" alt=\"\" /></p>\n",
+				"content_text": "It was a beautiful day.\n\n<img src=\"uploads/2021/da6491c9ce.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2021/ba5f6c93ba.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2021/e17287b1d2.jpg\" width=\"600\" height=\"449\" alt=\"\" />\n",
 				"date_published": "2021-03-14T21:13:42+00:00",
 				"url": "https://yeager.wtf/2021/03/14/it-was-a.html"
 			},
@@ -121,8 +129,8 @@
 			{
 				"id": "http://shawnyeager.micro.blog/2021/03/03/walkabout.html",
 				
-				"content_html": "<p>Walkabout</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2021/a68e91171d.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Walkabout\n\n<img src=\"https://yeager.wtf/uploads/2021/a68e91171d.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Walkabout</p>\n\n<p><img src=\"uploads/2021/a68e91171d.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Walkabout\n\n<img src=\"uploads/2021/a68e91171d.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-03-03T20:16:42+00:00",
 				"url": "https://yeager.wtf/2021/03/03/walkabout.html"
 			},
@@ -153,8 +161,8 @@
 			{
 				"id": "http://shawnyeager.micro.blog/2021/02/23/day.html",
 				
-				"content_html": "<p>☀️ = 🧺 day</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2021/629e130351.jpg\" width=\"599\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "☀️ = 🧺 day\n\n<img src=\"https://yeager.wtf/uploads/2021/629e130351.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>☀️ = 🧺 day</p>\n\n<p><img src=\"uploads/2021/629e130351.jpg\" width=\"599\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "☀️ = 🧺 day\n\n<img src=\"uploads/2021/629e130351.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-02-23T13:12:30+00:00",
 				"url": "https://yeager.wtf/2021/02/23/day.html"
 			},
@@ -186,16 +194,16 @@
 			{
 				"id": "http://shawnyeager.micro.blog/2021/02/17/fly-by-night.html",
 				
-				"content_html": "<p>Fly by night</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2021/e1bc331f9e.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Fly by night\n\n<img src=\"https://yeager.wtf/uploads/2021/e1bc331f9e.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Fly by night</p>\n\n<p><img src=\"uploads/2021/e1bc331f9e.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Fly by night\n\n<img src=\"uploads/2021/e1bc331f9e.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-02-17T20:33:51+00:00",
 				"url": "https://yeager.wtf/2021/02/17/fly-by-night.html"
 			},
 			{
 				"id": "http://shawnyeager.micro.blog/2021/02/16/i-could-spend.html",
 				
-				"content_html": "<p>I could spend days photographing doorways in Morocco. Each one is unique.</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2021/10ac9a469f.jpg\" width=\"370\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "I could spend days photographing doorways in Morocco. Each one is unique.\n\n<img src=\"https://yeager.wtf/uploads/2021/10ac9a469f.jpg\" width=\"370\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>I could spend days photographing doorways in Morocco. Each one is unique.</p>\n\n<p><img src=\"uploads/2021/10ac9a469f.jpg\" width=\"370\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "I could spend days photographing doorways in Morocco. Each one is unique.\n\n<img src=\"uploads/2021/10ac9a469f.jpg\" width=\"370\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-02-16T21:58:09+00:00",
 				"url": "https://yeager.wtf/2021/02/16/i-could-spend.html"
 			},
@@ -210,8 +218,8 @@
 			{
 				"id": "http://shawnyeager.micro.blog/2021/02/13/beauty-and-the.html",
 				
-				"content_html": "<p>Beauty and the beast</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2021/65ba02d6b3.jpg\" width=\"599\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Beauty and the beast\n\n<img src=\"https://yeager.wtf/uploads/2021/65ba02d6b3.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Beauty and the beast</p>\n\n<p><img src=\"uploads/2021/65ba02d6b3.jpg\" width=\"599\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Beauty and the beast\n\n<img src=\"uploads/2021/65ba02d6b3.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-02-13T18:01:16+00:00",
 				"url": "https://yeager.wtf/2021/02/13/beauty-and-the.html"
 			},
@@ -234,8 +242,8 @@
 			{
 				"id": "http://shawnyeager.micro.blog/2021/02/06/from-a-hike.html",
 				
-				"content_html": "<p>From yesterday’s hike along the coastline of the Strait of Gibraltar, Merkala Beach, Tangier</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2021/c370a6ad1c.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://yeager.wtf/uploads/2021/a14788f546.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "From yesterday’s hike along the coastline of the Strait of Gibraltar, Merkala Beach, Tangier\n\n<img src=\"https://yeager.wtf/uploads/2021/c370a6ad1c.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://yeager.wtf/uploads/2021/a14788f546.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>From yesterday’s hike along the coastline of the Strait of Gibraltar, Merkala Beach, Tangier</p>\n\n<p><img src=\"uploads/2021/c370a6ad1c.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2021/a14788f546.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "From yesterday’s hike along the coastline of the Strait of Gibraltar, Merkala Beach, Tangier\n\n<img src=\"uploads/2021/c370a6ad1c.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2021/a14788f546.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-02-06T07:15:26+00:00",
 				"url": "https://yeager.wtf/2021/02/06/from-a-hike.html"
 			},
@@ -258,16 +266,16 @@
 			{
 				"id": "http://shawnyeager.micro.blog/2021/01/22/from-last-weekends.html",
 				
-				"content_html": "<p>From last weekend’s hike along the Atlantic coastline</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2021/5fb2c96ca6.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "From last weekend’s hike along the Atlantic coastline\n\n<img src=\"https://yeager.wtf/uploads/2021/5fb2c96ca6.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>From last weekend’s hike along the Atlantic coastline</p>\n\n<p><img src=\"uploads/2021/5fb2c96ca6.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "From last weekend’s hike along the Atlantic coastline\n\n<img src=\"uploads/2021/5fb2c96ca6.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-01-22T11:59:12+00:00",
 				"url": "https://yeager.wtf/2021/01/22/from-last-weekends.html"
 			},
 			{
 				"id": "http://shawnyeager.micro.blog/2021/01/16/waiting.html",
 				
-				"content_html": "<p>Waiting</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2021/952db5eb18.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Waiting\n\n<img src=\"https://yeager.wtf/uploads/2021/952db5eb18.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Waiting</p>\n\n<p><img src=\"uploads/2021/952db5eb18.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Waiting\n\n<img src=\"uploads/2021/952db5eb18.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-01-16T21:43:24+00:00",
 				"url": "https://yeager.wtf/2021/01/16/waiting.html"
 			},
@@ -282,32 +290,32 @@
 			{
 				"id": "http://shawnyeager.micro.blog/2021/01/14/193107.html",
 				
-				"content_html": "<p><img src=\"https://yeager.wtf/uploads/2021/a18636cc0a.jpg\" width=\"600\" height=\"449\" alt=\"\" /><img src=\"https://yeager.wtf/uploads/2021/a4e76f7dd4.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"https://yeager.wtf/uploads/2021/a18636cc0a.jpg\" width=\"600\" height=\"449\" alt=\"\" /><img src=\"https://yeager.wtf/uploads/2021/a4e76f7dd4.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"uploads/2021/a18636cc0a.jpg\" width=\"600\" height=\"449\" alt=\"\" /><img src=\"uploads/2021/a4e76f7dd4.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2021/a18636cc0a.jpg\" width=\"600\" height=\"449\" alt=\"\" /><img src=\"uploads/2021/a4e76f7dd4.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
 				"date_published": "2021-01-14T18:31:07+00:00",
 				"url": "https://yeager.wtf/2021/01/14/193107.html"
 			},
 			{
 				"id": "http://shawnyeager.micro.blog/2021/01/12/a-beautiful-night.html",
 				
-				"content_html": "<p>Sundown on the boardwalk</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2021/e64f86840d.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://yeager.wtf/uploads/2021/4692718954.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://yeager.wtf/uploads/2021/cb76555dc2.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Sundown on the boardwalk\n\n<img src=\"https://yeager.wtf/uploads/2021/e64f86840d.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://yeager.wtf/uploads/2021/4692718954.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://yeager.wtf/uploads/2021/cb76555dc2.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Sundown on the boardwalk</p>\n\n<p><img src=\"uploads/2021/e64f86840d.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2021/4692718954.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/cb76555dc2.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Sundown on the boardwalk\n\n<img src=\"uploads/2021/e64f86840d.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2021/4692718954.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/cb76555dc2.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-01-12T18:16:31+00:00",
 				"url": "https://yeager.wtf/2021/01/12/a-beautiful-night.html"
 			},
 			{
 				"id": "http://shawnyeager.micro.blog/2021/01/10/the-end-of.html",
 				
-				"content_html": "<p>The end of the road</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2021/e4ab0c5ae0.jpg\" width=\"600\" height=\"338\" alt=\"\" /></p>\n",
-				"content_text": "The end of the road\n\n<img src=\"https://yeager.wtf/uploads/2021/e4ab0c5ae0.jpg\" width=\"600\" height=\"338\" alt=\"\" />\n",
+				"content_html": "<p>The end of the road</p>\n\n<p><img src=\"uploads/2021/e4ab0c5ae0.jpg\" width=\"600\" height=\"338\" alt=\"\" /></p>\n",
+				"content_text": "The end of the road\n\n<img src=\"uploads/2021/e4ab0c5ae0.jpg\" width=\"600\" height=\"338\" alt=\"\" />\n",
 				"date_published": "2021-01-10T17:10:00+00:00",
 				"url": "https://yeager.wtf/2021/01/10/the-end-of.html"
 			},
 			{
 				"id": "http://shawnyeager.micro.blog/2021/01/09/kicked-around-a.html",
 				
-				"content_html": "<p>Kicked around a tucked away used book store in Tangier and time-traveled back to circa 1990.</p>\n\n<p>📚</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2021/f65d09762f.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
-				"content_text": "Kicked around a tucked away used book store in Tangier and time-traveled back to circa 1990.\n\n📚 \n\n<img src=\"https://yeager.wtf/uploads/2021/f65d09762f.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"content_html": "<p>Kicked around a tucked away used book store in Tangier and time-traveled back to circa 1990.</p>\n\n<p>📚</p>\n\n<p><img src=\"uploads/2021/f65d09762f.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
+				"content_text": "Kicked around a tucked away used book store in Tangier and time-traveled back to circa 1990.\n\n📚 \n\n<img src=\"uploads/2021/f65d09762f.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
 				"date_published": "2021-01-09T20:03:06+00:00",
 				"url": "https://yeager.wtf/2021/01/09/kicked-around-a.html",
 				"tags": ["Books"]
@@ -315,16 +323,16 @@
 			{
 				"id": "http://shawnyeager.micro.blog/2021/01/08/today-i-visited.html",
 				
-				"content_html": "<p>Today included a visit to the <a href=\"https://legation.org\">Tangier American Legation</a> – a wonderful exhibit, the oldest American diplomatic property, and the only US historic landmark overseas. Morocco was the first country to recognize American independence.</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2021/dae9df7e0b.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://yeager.wtf/uploads/2021/b6b8611f11.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://yeager.wtf/uploads/2021/9e6a8e527c.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Today included a visit to the [Tangier American Legation](https://legation.org) – a wonderful exhibit, the oldest American diplomatic property, and the only US historic landmark overseas. Morocco was the first country to recognize American independence.\n\n<img src=\"https://yeager.wtf/uploads/2021/dae9df7e0b.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://yeager.wtf/uploads/2021/b6b8611f11.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://yeager.wtf/uploads/2021/9e6a8e527c.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Today included a visit to the <a href=\"https://legation.org\">Tangier American Legation</a> – a wonderful exhibit, the oldest American diplomatic property, and the only US historic landmark overseas. Morocco was the first country to recognize American independence.</p>\n\n<p><img src=\"uploads/2021/dae9df7e0b.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/b6b8611f11.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/9e6a8e527c.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Today included a visit to the [Tangier American Legation](https://legation.org) – a wonderful exhibit, the oldest American diplomatic property, and the only US historic landmark overseas. Morocco was the first country to recognize American independence.\n\n<img src=\"uploads/2021/dae9df7e0b.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/b6b8611f11.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/9e6a8e527c.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-01-08T17:56:00+00:00",
 				"url": "https://yeager.wtf/2021/01/08/today-i-visited.html"
 			},
 			{
 				"id": "http://shawnyeager.micro.blog/2021/01/03/170401.html",
 				
-				"content_html": "<p>☁️</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2021/0978605616.jpg\" width=\"600\" height=\"599\" alt=\"\" /><img src=\"https://yeager.wtf/uploads/2021/6460d44500.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "☁️\n\n<img src=\"https://yeager.wtf/uploads/2021/0978605616.jpg\" width=\"600\" height=\"599\" alt=\"\" /><img src=\"https://yeager.wtf/uploads/2021/6460d44500.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>☁️</p>\n\n<p><img src=\"uploads/2021/0978605616.jpg\" width=\"600\" height=\"599\" alt=\"\" /><img src=\"uploads/2021/6460d44500.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "☁️\n\n<img src=\"uploads/2021/0978605616.jpg\" width=\"600\" height=\"599\" alt=\"\" /><img src=\"uploads/2021/6460d44500.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-01-03T16:04:01+00:00",
 				"url": "https://yeager.wtf/2021/01/03/170401.html"
 			},
@@ -339,24 +347,24 @@
 			{
 				"id": "http://shawnyeager.micro.blog/2020/12/29/straight-of-gibraltar.html",
 				
-				"content_html": "<p>Strait of Gibraltar</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2020/417d1e3e2d.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Strait of Gibraltar\n\n<img src=\"https://yeager.wtf/uploads/2020/417d1e3e2d.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Strait of Gibraltar</p>\n\n<p><img src=\"uploads/2020/417d1e3e2d.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Strait of Gibraltar\n\n<img src=\"uploads/2020/417d1e3e2d.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-12-29T16:51:05+00:00",
 				"url": "https://yeager.wtf/2020/12/29/straight-of-gibraltar.html"
 			},
 			{
 				"id": "http://shawnyeager.micro.blog/2020/12/27/au-revoir-zuck.html",
 				
-				"content_html": "<p>Au revoir, Zuck. It’s been real.</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2020/e5dfc2895a.jpg\" width=\"553\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Au revoir, Zuck. It’s been real.\n\n<img src=\"https://yeager.wtf/uploads/2020/e5dfc2895a.jpg\" width=\"553\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Au revoir, Zuck. It’s been real.</p>\n\n<p><img src=\"uploads/2020/e5dfc2895a.jpg\" width=\"553\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Au revoir, Zuck. It’s been real.\n\n<img src=\"uploads/2020/e5dfc2895a.jpg\" width=\"553\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-12-27T16:53:35+00:00",
 				"url": "https://yeager.wtf/2020/12/27/au-revoir-zuck.html"
 			},
 			{
 				"id": "http://shawnyeager.micro.blog/2020/12/27/more.html",
 				
-				"content_html": "<p>More 🌝</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2020/79627bf051.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "More 🌝\n\n<img src=\"https://yeager.wtf/uploads/2020/79627bf051.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>More 🌝</p>\n\n<p><img src=\"uploads/2020/79627bf051.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "More 🌝\n\n<img src=\"uploads/2020/79627bf051.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-12-27T16:23:55+00:00",
 				"url": "https://yeager.wtf/2020/12/27/more.html"
 			},
@@ -371,16 +379,16 @@
 			{
 				"id": "http://shawnyeager.micro.blog/2020/12/26/moon-sky-and.html",
 				
-				"content_html": "<p>Sky, sea, and moon</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2020/f0a0993bf9.jpg\" width=\"600\" height=\"599\" alt=\"\" /><img src=\"https://yeager.wtf/uploads/2020/8ab5594f3a.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Sky, sea, and moon\n\n<img src=\"https://yeager.wtf/uploads/2020/f0a0993bf9.jpg\" width=\"600\" height=\"599\" alt=\"\" /><img src=\"https://yeager.wtf/uploads/2020/8ab5594f3a.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Sky, sea, and moon</p>\n\n<p><img src=\"uploads/2020/f0a0993bf9.jpg\" width=\"600\" height=\"599\" alt=\"\" /><img src=\"uploads/2020/8ab5594f3a.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Sky, sea, and moon\n\n<img src=\"uploads/2020/f0a0993bf9.jpg\" width=\"600\" height=\"599\" alt=\"\" /><img src=\"uploads/2020/8ab5594f3a.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-12-26T16:43:20+00:00",
 				"url": "https://yeager.wtf/2020/12/26/moon-sky-and.html"
 			},
 			{
 				"id": "http://shawnyeager.micro.blog/2020/12/22/after-searching-for.html",
 				
-				"content_html": "<p>After searching for weeks, I found – in a Tangier book store, no less – what looks like a great English language book on Moroccan history. With a subtitle like this, I had to buy it.</p>\n\n<p><em><a href=\"https://www.goodreads.com/book/show/43804390-tangier\">Tangier: From the Romans to The Rolling Stones</a></em></p>\n\n<p><img src=\"https://yeager.wtf/uploads/2020/b482a7efa0.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n\n<p>📚</p>\n",
-				"content_text": "After searching for weeks, I found – in a Tangier book store, no less – what looks like a great English language book on Moroccan history. With a subtitle like this, I had to buy it. \n\n*[Tangier: From the Romans to The Rolling Stones](https://www.goodreads.com/book/show/43804390-tangier)*\n\n<img src=\"https://yeager.wtf/uploads/2020/b482a7efa0.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n\n📚\n",
+				"content_html": "<p>After searching for weeks, I found – in a Tangier book store, no less – what looks like a great English language book on Moroccan history. With a subtitle like this, I had to buy it.</p>\n\n<p><em><a href=\"https://www.goodreads.com/book/show/43804390-tangier\">Tangier: From the Romans to The Rolling Stones</a></em></p>\n\n<p><img src=\"uploads/2020/b482a7efa0.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n\n<p>📚</p>\n",
+				"content_text": "After searching for weeks, I found – in a Tangier book store, no less – what looks like a great English language book on Moroccan history. With a subtitle like this, I had to buy it. \n\n*[Tangier: From the Romans to The Rolling Stones](https://www.goodreads.com/book/show/43804390-tangier)*\n\n<img src=\"uploads/2020/b482a7efa0.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n\n📚\n",
 				"date_published": "2020-12-22T18:55:12+00:00",
 				"url": "https://yeager.wtf/2020/12/22/after-searching-for.html",
 				"tags": ["Books"]
@@ -388,16 +396,16 @@
 			{
 				"id": "http://shawnyeager.micro.blog/2020/12/22/december-in-tangier.html",
 				
-				"content_html": "<p>December in Tangier is a bit different than Nashville.</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2020/c3ba5674e3.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "December in Tangier is a bit different than Nashville.\n\n<img src=\"https://yeager.wtf/uploads/2020/c3ba5674e3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>December in Tangier is a bit different than Nashville.</p>\n\n<p><img src=\"uploads/2020/c3ba5674e3.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "December in Tangier is a bit different than Nashville.\n\n<img src=\"uploads/2020/c3ba5674e3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-12-22T16:29:28+00:00",
 				"url": "https://yeager.wtf/2020/12/22/december-in-tangier.html"
 			},
 			{
 				"id": "http://shawnyeager.micro.blog/2020/12/15/the-view-from.html",
 				
-				"content_html": "<p>The view at dinner tonight</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2020/01efbdafa6.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "The view at dinner tonight\n\n<img src=\"https://yeager.wtf/uploads/2020/01efbdafa6.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>The view at dinner tonight</p>\n\n<p><img src=\"uploads/2020/01efbdafa6.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "The view at dinner tonight\n\n<img src=\"uploads/2020/01efbdafa6.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-12-15T21:44:00+00:00",
 				"url": "https://yeager.wtf/2020/12/15/the-view-from.html"
 			},
@@ -428,48 +436,48 @@
 			{
 				"id": "http://shawnyeager.micro.blog/2020/12/05/todays-view-from.html",
 				
-				"content_html": "<p>Today’s view from the northern tip of Africa</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2020/e8c3d07f14.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://yeager.wtf/uploads/2020/b4c5995e37.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
-				"content_text": "Today’s view from the northern tip of Africa\n\n<img src=\"https://yeager.wtf/uploads/2020/e8c3d07f14.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://yeager.wtf/uploads/2020/b4c5995e37.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"content_html": "<p>Today’s view from the northern tip of Africa</p>\n\n<p><img src=\"uploads/2020/e8c3d07f14.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2020/b4c5995e37.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
+				"content_text": "Today’s view from the northern tip of Africa\n\n<img src=\"uploads/2020/e8c3d07f14.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2020/b4c5995e37.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
 				"date_published": "2020-12-05T19:34:34+00:00",
 				"url": "https://yeager.wtf/2020/12/05/todays-view-from.html"
 			},
 			{
 				"id": "http://shawnyeager.micro.blog/2020/11/29/i-morocco.html",
 				
-				"content_html": "<p>I ♥️ Morocco</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2020/8706e5fc43.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "I ♥️ Morocco\n\n<img src=\"https://yeager.wtf/uploads/2020/8706e5fc43.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>I ♥️ Morocco</p>\n\n<p><img src=\"uploads/2020/8706e5fc43.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "I ♥️ Morocco\n\n<img src=\"uploads/2020/8706e5fc43.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-11-29T16:39:00+00:00",
 				"url": "https://yeager.wtf/2020/11/29/i-morocco.html"
 			},
 			{
 				"id": "http://shawnyeager.micro.blog/2020/11/28/bay-of-tanger.html",
 				
-				"content_html": "<p>On the Bay of Tanger</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2020/02e67a3546.jpg\" width=\"599\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "On the Bay of Tanger\n\n<img src=\"https://yeager.wtf/uploads/2020/02e67a3546.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>On the Bay of Tanger</p>\n\n<p><img src=\"uploads/2020/02e67a3546.jpg\" width=\"599\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "On the Bay of Tanger\n\n<img src=\"uploads/2020/02e67a3546.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-11-28T15:52:42+00:00",
 				"url": "https://yeager.wtf/2020/11/28/bay-of-tanger.html"
 			},
 			{
 				"id": "http://shawnyeager.micro.blog/2020/11/28/skyward.html",
 				
-				"content_html": "<p>Skyward</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2020/8bf4a94d17.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Skyward\n\n<img src=\"https://yeager.wtf/uploads/2020/8bf4a94d17.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Skyward</p>\n\n<p><img src=\"uploads/2020/8bf4a94d17.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Skyward\n\n<img src=\"uploads/2020/8bf4a94d17.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-11-28T10:28:06+00:00",
 				"url": "https://yeager.wtf/2020/11/28/skyward.html"
 			},
 			{
 				"id": "http://shawnyeager.micro.blog/2020/11/28/perched.html",
 				
-				"content_html": "<p>Perched</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2020/cf60842503.jpg\" width=\"599\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Perched\n\n<img src=\"https://yeager.wtf/uploads/2020/cf60842503.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Perched</p>\n\n<p><img src=\"uploads/2020/cf60842503.jpg\" width=\"599\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Perched\n\n<img src=\"uploads/2020/cf60842503.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-11-28T09:52:03+00:00",
 				"url": "https://yeager.wtf/2020/11/28/perched.html"
 			},
 			{
 				"id": "http://shawnyeager.micro.blog/2020/11/26/the-voice-on.html",
 				
-				"content_html": "<p>The voice on this guy – wow. While the melody carries serious shades of Jeff Buckley.</p>\n\n<p>“<a href=\"https://youtu.be/92C7auMxer8\">Winter Song</a>” by Sam Fender</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2020/7e1aa7dafc.jpg\" width=\"600\" height=\"479\" alt=\"\" /></p>\n",
-				"content_text": "The voice on this guy – wow. While the melody carries serious shades of Jeff Buckley. \n\n“[Winter Song](https://youtu.be/92C7auMxer8)” by Sam Fender\n\n\n<img src=\"https://yeager.wtf/uploads/2020/7e1aa7dafc.jpg\" width=\"600\" height=\"479\" alt=\"\" />\n",
+				"content_html": "<p>The voice on this guy – wow. While the melody carries serious shades of Jeff Buckley.</p>\n\n<p>“<a href=\"https://youtu.be/92C7auMxer8\">Winter Song</a>” by Sam Fender</p>\n\n<p><img src=\"uploads/2020/7e1aa7dafc.jpg\" width=\"600\" height=\"479\" alt=\"\" /></p>\n",
+				"content_text": "The voice on this guy – wow. While the melody carries serious shades of Jeff Buckley. \n\n“[Winter Song](https://youtu.be/92C7auMxer8)” by Sam Fender\n\n\n<img src=\"uploads/2020/7e1aa7dafc.jpg\" width=\"600\" height=\"479\" alt=\"\" />\n",
 				"date_published": "2020-11-26T18:57:13+00:00",
 				"url": "https://yeager.wtf/2020/11/26/the-voice-on.html"
 			},
@@ -492,24 +500,24 @@
 			{
 				"id": "http://shawnyeager.micro.blog/2020/11/24/catinabox.html",
 				
-				"content_html": "<p>Cat nap</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2020/9aa1fb2f01.jpg\" width=\"599\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Cat nap\n\n<img src=\"https://yeager.wtf/uploads/2020/9aa1fb2f01.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Cat nap</p>\n\n<p><img src=\"uploads/2020/9aa1fb2f01.jpg\" width=\"599\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Cat nap\n\n<img src=\"uploads/2020/9aa1fb2f01.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-11-24T20:20:43+00:00",
 				"url": "https://yeager.wtf/2020/11/24/catinabox.html"
 			},
 			{
 				"id": "http://shawnyeager.micro.blog/2020/11/22/soaring.html",
 				
-				"content_html": "<p>Soaring</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2020/ab91c314ad.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Soaring\n\n<img src=\"https://yeager.wtf/uploads/2020/ab91c314ad.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Soaring</p>\n\n<p><img src=\"uploads/2020/ab91c314ad.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Soaring\n\n<img src=\"uploads/2020/ab91c314ad.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-11-22T21:41:29+00:00",
 				"url": "https://yeager.wtf/2020/11/22/soaring.html"
 			},
 			{
 				"id": "http://shawnyeager.micro.blog/2020/11/22/sundown.html",
 				
-				"content_html": "<p>Sundown</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2020/f0dbaf8e58.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Sundown\n\n<img src=\"https://yeager.wtf/uploads/2020/f0dbaf8e58.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Sundown</p>\n\n<p><img src=\"uploads/2020/f0dbaf8e58.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Sundown\n\n<img src=\"uploads/2020/f0dbaf8e58.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-11-22T19:08:14+00:00",
 				"url": "https://yeager.wtf/2020/11/22/sundown.html"
 			},
@@ -524,8 +532,8 @@
 			{
 				"id": "http://shawnyeager.micro.blog/2020/11/21/i-cannot-get.html",
 				
-				"content_html": "<p>I cannot get enough of the blues of the skies over Tangier.</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2020/570dc46f30.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://yeager.wtf/uploads/2020/d76072009b.jpg\" width=\"600\" height=\"449\" alt=\"\" /></p>\n",
-				"content_text": "I cannot get enough of the blues of the skies over Tangier.\n\n<img src=\"https://yeager.wtf/uploads/2020/570dc46f30.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://yeager.wtf/uploads/2020/d76072009b.jpg\" width=\"600\" height=\"449\" alt=\"\" />\n",
+				"content_html": "<p>I cannot get enough of the blues of the skies over Tangier.</p>\n\n<p><img src=\"uploads/2020/570dc46f30.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2020/d76072009b.jpg\" width=\"600\" height=\"449\" alt=\"\" /></p>\n",
+				"content_text": "I cannot get enough of the blues of the skies over Tangier.\n\n<img src=\"uploads/2020/570dc46f30.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2020/d76072009b.jpg\" width=\"600\" height=\"449\" alt=\"\" />\n",
 				"date_published": "2020-11-21T18:20:21+00:00",
 				"url": "https://yeager.wtf/2020/11/21/i-cannot-get.html"
 			},
@@ -541,32 +549,32 @@
 			{
 				"id": "http://shawnyeager.micro.blog/2020/11/20/rue-anoual-tangier.html",
 				
-				"content_html": "<p>Rue Anoual, Tangier, Morocco</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2020/b74206a3b8.jpg\" width=\"449\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Rue Anoual, Tangier, Morocco\n\n<img src=\"https://yeager.wtf/uploads/2020/b74206a3b8.jpg\" width=\"449\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Rue Anoual, Tangier, Morocco</p>\n\n<p><img src=\"uploads/2020/b74206a3b8.jpg\" width=\"449\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Rue Anoual, Tangier, Morocco\n\n<img src=\"uploads/2020/b74206a3b8.jpg\" width=\"449\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-11-20T14:10:17+00:00",
 				"url": "https://yeager.wtf/2020/11/20/rue-anoual-tangier.html"
 			},
 			{
 				"id": "http://shawnyeager.micro.blog/2020/11/19/a-walk-around.html",
 				
-				"content_html": "<p>A walk around Médina, Tangier, Morocco</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2020/fdf68bef39.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://yeager.wtf/uploads/2020/58b54b582c.jpg\" width=\"600\" height=\"449\" alt=\"\" /><img src=\"https://yeager.wtf/uploads/2020/ea52d957e9.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "A walk around Médina, Tangier, Morocco\n\n\n<img src=\"https://yeager.wtf/uploads/2020/fdf68bef39.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://yeager.wtf/uploads/2020/58b54b582c.jpg\" width=\"600\" height=\"449\" alt=\"\" /><img src=\"https://yeager.wtf/uploads/2020/ea52d957e9.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>A walk around Médina, Tangier, Morocco</p>\n\n<p><img src=\"uploads/2020/fdf68bef39.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2020/58b54b582c.jpg\" width=\"600\" height=\"449\" alt=\"\" /><img src=\"uploads/2020/ea52d957e9.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "A walk around Médina, Tangier, Morocco\n\n\n<img src=\"uploads/2020/fdf68bef39.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2020/58b54b582c.jpg\" width=\"600\" height=\"449\" alt=\"\" /><img src=\"uploads/2020/ea52d957e9.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-11-19T20:20:18+00:00",
 				"url": "https://yeager.wtf/2020/11/19/a-walk-around.html"
 			},
 			{
 				"id": "http://shawnyeager.micro.blog/2020/11/18/napping-cat-in.html",
 				
-				"content_html": "<p>Napping cat in Tangier, Morocco</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2020/9bbde3e78d.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Napping cat in Tangier, Morocco\n\n<img src=\"https://yeager.wtf/uploads/2020/9bbde3e78d.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Napping cat in Tangier, Morocco</p>\n\n<p><img src=\"uploads/2020/9bbde3e78d.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Napping cat in Tangier, Morocco\n\n<img src=\"uploads/2020/9bbde3e78d.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-11-18T18:04:07+00:00",
 				"url": "https://yeager.wtf/2020/11/18/napping-cat-in.html"
 			},
 			{
 				"id": "http://shawnyeager.micro.blog/2020/11/15/bouregrag-rabat-morocco.html",
 				
-				"content_html": "<p>The view at dinner last night in Bouregrag, Rabat, Morocco</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2020/a208a75c33.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://yeager.wtf/uploads/2020/26fc5da8fc.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://yeager.wtf/uploads/2020/29120d399b.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://yeager.wtf/uploads/2020/6d80c9a0bf.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "The view at dinner last night in Bouregrag, Rabat, Morocco\n\n\n<img src=\"https://yeager.wtf/uploads/2020/a208a75c33.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://yeager.wtf/uploads/2020/26fc5da8fc.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://yeager.wtf/uploads/2020/29120d399b.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://yeager.wtf/uploads/2020/6d80c9a0bf.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>The view at dinner last night in Bouregrag, Rabat, Morocco</p>\n\n<p><img src=\"uploads/2020/a208a75c33.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2020/26fc5da8fc.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2020/29120d399b.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2020/6d80c9a0bf.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "The view at dinner last night in Bouregrag, Rabat, Morocco\n\n\n<img src=\"uploads/2020/a208a75c33.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2020/26fc5da8fc.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2020/29120d399b.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2020/6d80c9a0bf.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-11-15T09:28:00+00:00",
 				"url": "https://yeager.wtf/2020/11/15/bouregrag-rabat-morocco.html"
 			},
@@ -581,24 +589,24 @@
 			{
 				"id": "http://shawnyeager.micro.blog/2020/11/12/sunset-in-rabat.html",
 				
-				"content_html": "<p>Sunset in Rabat, Morocco</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2020/469dda9f4b.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Sunset in Rabat, Morocco\n\n<img src=\"https://yeager.wtf/uploads/2020/469dda9f4b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Sunset in Rabat, Morocco</p>\n\n<p><img src=\"uploads/2020/469dda9f4b.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Sunset in Rabat, Morocco\n\n<img src=\"uploads/2020/469dda9f4b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-11-12T19:25:58+00:00",
 				"url": "https://yeager.wtf/2020/11/12/sunset-in-rabat.html"
 			},
 			{
 				"id": "http://shawnyeager.micro.blog/2020/11/10/avenue-mustafa-assayeh.html",
 				
-				"content_html": "<p>Avenue Mustafa Assayeh, Rabat, Morocco</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2020/6fd736ffd1.jpg\" width=\"600\" height=\"450\" alt=\"Avenue Mustafa Assayeh, Rabat, Morocco\" /></p>\n",
-				"content_text": "Avenue Mustafa Assayeh, Rabat, Morocco\n\n<img src=\"https://yeager.wtf/uploads/2020/6fd736ffd1.jpg\" width=\"600\" height=\"450\" alt=\"Avenue Mustafa Assayeh, Rabat, Morocco\" />\n",
+				"content_html": "<p>Avenue Mustafa Assayeh, Rabat, Morocco</p>\n\n<p><img src=\"uploads/2020/6fd736ffd1.jpg\" width=\"600\" height=\"450\" alt=\"Avenue Mustafa Assayeh, Rabat, Morocco\" /></p>\n",
+				"content_text": "Avenue Mustafa Assayeh, Rabat, Morocco\n\n<img src=\"uploads/2020/6fd736ffd1.jpg\" width=\"600\" height=\"450\" alt=\"Avenue Mustafa Assayeh, Rabat, Morocco\" />\n",
 				"date_published": "2020-11-10T20:05:38+00:00",
 				"url": "https://yeager.wtf/2020/11/10/avenue-mustafa-assayeh.html"
 			},
 			{
 				"id": "http://shawnyeager.micro.blog/2020/11/08/on-approach-to.html",
 				
-				"content_html": "<p>On approach to JFK</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2020/bdc1576442.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "On approach to JFK\n\n<img src=\"https://yeager.wtf/uploads/2020/bdc1576442.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>On approach to JFK</p>\n\n<p><img src=\"uploads/2020/bdc1576442.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "On approach to JFK\n\n<img src=\"uploads/2020/bdc1576442.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-11-08T19:57:19+00:00",
 				"url": "https://yeager.wtf/2020/11/08/on-approach-to.html"
 			},
@@ -613,40 +621,40 @@
 			{
 				"id": "http://shawnyeager.micro.blog/2020/10/23/downtown-nashville.html",
 				
-				"content_html": "<p>Downtown Nashville</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2020/4d5a8a04eb.jpg\" width=\"600\" height=\"471\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
-				"content_text": "Downtown Nashville\n\n<img src=\"https://yeager.wtf/uploads/2020/4d5a8a04eb.jpg\" width=\"600\" height=\"471\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"content_html": "<p>Downtown Nashville</p>\n\n<p><img src=\"uploads/2020/4d5a8a04eb.jpg\" width=\"600\" height=\"471\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
+				"content_text": "Downtown Nashville\n\n<img src=\"uploads/2020/4d5a8a04eb.jpg\" width=\"600\" height=\"471\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
 				"date_published": "2020-10-23T19:21:37+00:00",
 				"url": "https://yeager.wtf/2020/10/23/downtown-nashville.html"
 			},
 			{
 				"id": "http://shawnyeager.micro.blog/2020/10/19/hang-in-there.html",
 				
-				"content_html": "<p>Hang in there.</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2020/888ee3fd4e.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
-				"content_text": "Hang in there.\n\n<img src=\"https://yeager.wtf/uploads/2020/888ee3fd4e.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"content_html": "<p>Hang in there.</p>\n\n<p><img src=\"uploads/2020/888ee3fd4e.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
+				"content_text": "Hang in there.\n\n<img src=\"uploads/2020/888ee3fd4e.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
 				"date_published": "2020-10-20T03:50:48+00:00",
 				"url": "https://yeager.wtf/2020/10/19/hang-in-there.html"
 			},
 			{
 				"id": "http://shawnyeager.micro.blog/2020/10/14/sunrise-in-nashville.html",
 				
-				"content_html": "<p>Sunrise in Nashville with a sliver of moon</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2020/b892588afe.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
-				"content_text": "Sunrise in Nashville with a sliver of moon\n\n<img src=\"https://yeager.wtf/uploads/2020/b892588afe.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"content_html": "<p>Sunrise in Nashville with a sliver of moon</p>\n\n<p><img src=\"uploads/2020/b892588afe.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
+				"content_text": "Sunrise in Nashville with a sliver of moon\n\n<img src=\"uploads/2020/b892588afe.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
 				"date_published": "2020-10-14T11:32:27+00:00",
 				"url": "https://yeager.wtf/2020/10/14/sunrise-in-nashville.html"
 			},
 			{
 				"id": "http://shawnyeager.micro.blog/2020/10/05/a-nice-touch.html",
 				
-				"content_html": "<p>A nice touch from <a href=\"https://www.eff.org/\">Electronic Frontier Foundation</a>. Especially now, I’m happy to be a supporter.</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2020/3111c0a0cc.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "A nice touch from [Electronic Frontier Foundation](https://www.eff.org/). Especially now, I’m happy to be a supporter. \n\n\n<img src=\"https://yeager.wtf/uploads/2020/3111c0a0cc.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>A nice touch from <a href=\"https://www.eff.org/\">Electronic Frontier Foundation</a>. Especially now, I’m happy to be a supporter.</p>\n\n<p><img src=\"uploads/2020/3111c0a0cc.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "A nice touch from [Electronic Frontier Foundation](https://www.eff.org/). Especially now, I’m happy to be a supporter. \n\n\n<img src=\"uploads/2020/3111c0a0cc.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-10-06T02:50:48+00:00",
 				"url": "https://yeager.wtf/2020/10/05/a-nice-touch.html"
 			},
 			{
 				"id": "http://shawnyeager.micro.blog/2020/10/02/autumn-has-arrived.html",
 				
-				"content_html": "<p>Autumn has arrived in Nashville. Hoodie + latte time.</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2020/fbfac99c41.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
-				"content_text": "Autumn has arrived in Nashville. Hoodie + latte time.\n\n<img src=\"https://yeager.wtf/uploads/2020/fbfac99c41.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"content_html": "<p>Autumn has arrived in Nashville. Hoodie + latte time.</p>\n\n<p><img src=\"uploads/2020/fbfac99c41.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
+				"content_text": "Autumn has arrived in Nashville. Hoodie + latte time.\n\n<img src=\"uploads/2020/fbfac99c41.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
 				"date_published": "2020-10-02T23:01:30+00:00",
 				"url": "https://yeager.wtf/2020/10/02/autumn-has-arrived.html"
 			},
@@ -677,8 +685,8 @@
 			{
 				"id": "http://shawnyeager.micro.blog/2020/09/16/pandemicready-tees.html",
 				
-				"content_html": "<p>Pandemic-ready tees</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2020/f38409236c.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
-				"content_text": "Pandemic-ready tees\n\n<img src=\"https://yeager.wtf/uploads/2020/f38409236c.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"content_html": "<p>Pandemic-ready tees</p>\n\n<p><img src=\"uploads/2020/f38409236c.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
+				"content_text": "Pandemic-ready tees\n\n<img src=\"uploads/2020/f38409236c.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
 				"date_published": "2020-09-17T00:39:13+00:00",
 				"url": "https://yeager.wtf/2020/09/16/pandemicready-tees.html"
 			},
@@ -693,8 +701,8 @@
 			{
 				"id": "http://shawnyeager.micro.blog/2020/09/04/my-new-field.html",
 				
-				"content_html": "<p>My new Field Notes “<a href=\"https://fieldnotesbrand.com/products/national-parks\">National Parks</a>” Series arrived.</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2020/bde744a651.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
-				"content_text": "My new Field Notes “[National Parks](https://fieldnotesbrand.com/products/national-parks)” Series arrived.\n\n<img src=\"https://yeager.wtf/uploads/2020/bde744a651.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"content_html": "<p>My new Field Notes “<a href=\"https://fieldnotesbrand.com/products/national-parks\">National Parks</a>” Series arrived.</p>\n\n<p><img src=\"uploads/2020/bde744a651.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
+				"content_text": "My new Field Notes “[National Parks](https://fieldnotesbrand.com/products/national-parks)” Series arrived.\n\n<img src=\"uploads/2020/bde744a651.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
 				"date_published": "2020-09-05T01:08:17+00:00",
 				"url": "https://yeager.wtf/2020/09/04/my-new-field.html"
 			},
@@ -709,8 +717,8 @@
 			{
 				"id": "http://shawnyeager.micro.blog/2020/08/30/the-new-album.html",
 				
-				"content_html": "<p>The <a href=\"https://angelolsen.ffm.to/whole-new-mess\">new album</a> from Angel Olsen is an absolute stunner.</p>\n\n<p>🎵</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2020/b6cceaceb9.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "The [new album](https://angelolsen.ffm.to/whole-new-mess) from Angel Olsen is an absolute stunner.\n\n🎵\n\n<img src=\"https://yeager.wtf/uploads/2020/b6cceaceb9.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>The <a href=\"https://angelolsen.ffm.to/whole-new-mess\">new album</a> from Angel Olsen is an absolute stunner.</p>\n\n<p>🎵</p>\n\n<p><img src=\"uploads/2020/b6cceaceb9.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "The [new album](https://angelolsen.ffm.to/whole-new-mess) from Angel Olsen is an absolute stunner.\n\n🎵\n\n<img src=\"uploads/2020/b6cceaceb9.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-08-30T17:21:10+00:00",
 				"url": "https://yeager.wtf/2020/08/30/the-new-album.html",
 				"tags": ["Music"]
@@ -718,8 +726,8 @@
 			{
 				"id": "http://shawnyeager.micro.blog/2020/08/29/sunset-in-nashville.html",
 				
-				"content_html": "<p>Sunset in Nashville</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2020/961f7e58b9.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Sunset in Nashville\n\n<img src=\"https://yeager.wtf/uploads/2020/961f7e58b9.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Sunset in Nashville</p>\n\n<p><img src=\"uploads/2020/961f7e58b9.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Sunset in Nashville\n\n<img src=\"uploads/2020/961f7e58b9.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-08-30T00:28:50+00:00",
 				"url": "https://yeager.wtf/2020/08/29/sunset-in-nashville.html"
 			},
@@ -734,8 +742,8 @@
 			{
 				"id": "http://shawnyeager.micro.blog/2020/08/23/this-months-selection.html",
 				
-				"content_html": "<p>The latest selection from <a href=\"http://s.trdcfe.me/336ph7\">Trade Coffee</a>. Fancy.</p>\n\n<p>☕️</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2020/2393e0fd62.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "The latest selection from [Trade Coffee](http://s.trdcfe.me/336ph7). Fancy.\n\n☕️\n\n<img src=\"https://yeager.wtf/uploads/2020/2393e0fd62.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>The latest selection from <a href=\"http://s.trdcfe.me/336ph7\">Trade Coffee</a>. Fancy.</p>\n\n<p>☕️</p>\n\n<p><img src=\"uploads/2020/2393e0fd62.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "The latest selection from [Trade Coffee](http://s.trdcfe.me/336ph7). Fancy.\n\n☕️\n\n<img src=\"uploads/2020/2393e0fd62.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-08-23T23:26:27+00:00",
 				"url": "https://yeager.wtf/2020/08/23/this-months-selection.html"
 			},
@@ -750,16 +758,16 @@
 			{
 				"id": "http://shawnyeager.micro.blog/2020/08/18/just-in-time.html",
 				
-				"content_html": "<p>My new hoodie arrived, just in time for Fall and the next Bitcoin bull run. That QR code. 👌🏼</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2020/87d9884d8a.jpg\" width=\"419\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "My new hoodie arrived, just in time for Fall and the next Bitcoin bull run. That QR code. 👌🏼 \n\n<img src=\"https://yeager.wtf/uploads/2020/87d9884d8a.jpg\" width=\"419\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>My new hoodie arrived, just in time for Fall and the next Bitcoin bull run. That QR code. 👌🏼</p>\n\n<p><img src=\"uploads/2020/87d9884d8a.jpg\" width=\"419\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "My new hoodie arrived, just in time for Fall and the next Bitcoin bull run. That QR code. 👌🏼 \n\n<img src=\"uploads/2020/87d9884d8a.jpg\" width=\"419\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-08-19T01:53:48+00:00",
 				"url": "https://yeager.wtf/2020/08/18/just-in-time.html"
 			},
 			{
 				"id": "http://shawnyeager.micro.blog/2020/08/18/another-beautiful-sunset.html",
 				
-				"content_html": "<p>Another beautiful sunset in Nashville</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2020/a6e08cf4e6.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Another beautiful sunset in Nashville\n\n<img src=\"https://yeager.wtf/uploads/2020/a6e08cf4e6.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Another beautiful sunset in Nashville</p>\n\n<p><img src=\"uploads/2020/a6e08cf4e6.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Another beautiful sunset in Nashville\n\n<img src=\"uploads/2020/a6e08cf4e6.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-08-19T00:31:49+00:00",
 				"url": "https://yeager.wtf/2020/08/18/another-beautiful-sunset.html"
 			},
@@ -774,8 +782,8 @@
 			{
 				"id": "http://shawnyeager.micro.blog/2020/08/13/this-months-new.html",
 				
-				"content_html": "<p>The new arrival from <a href=\"http://s.trdcfe.me/336ph7\">Trade Coffee</a>. It smells divine, even before I’ve opened the bag.</p>\n\n<p>☕️</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2020/51938567be.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "The new arrival from [Trade Coffee](http://s.trdcfe.me/336ph7). It smells divine, even before I’ve opened the bag.\n\n☕️\n\n<img src=\"https://yeager.wtf/uploads/2020/51938567be.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>The new arrival from <a href=\"http://s.trdcfe.me/336ph7\">Trade Coffee</a>. It smells divine, even before I’ve opened the bag.</p>\n\n<p>☕️</p>\n\n<p><img src=\"uploads/2020/51938567be.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "The new arrival from [Trade Coffee](http://s.trdcfe.me/336ph7). It smells divine, even before I’ve opened the bag.\n\n☕️\n\n<img src=\"uploads/2020/51938567be.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-08-13T22:54:33+00:00",
 				"url": "https://yeager.wtf/2020/08/13/this-months-new.html"
 			},
@@ -790,24 +798,24 @@
 			{
 				"id": "http://shawnyeager.micro.blog/2020/08/11/the-latest-addition.html",
 				
-				"content_html": "<p>The latest addition to my collection of ☕️ mugs.</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2020/5eaee658d6.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "The latest addition to my collection of ☕️ mugs. \n\n<img src=\"https://yeager.wtf/uploads/2020/5eaee658d6.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>The latest addition to my collection of ☕️ mugs.</p>\n\n<p><img src=\"uploads/2020/5eaee658d6.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "The latest addition to my collection of ☕️ mugs. \n\n<img src=\"uploads/2020/5eaee658d6.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-08-11T13:55:30+00:00",
 				"url": "https://yeager.wtf/2020/08/11/the-latest-addition.html"
 			},
 			{
 				"id": "http://shawnyeager.micro.blog/2020/08/10/nice-to-see.html",
 				
-				"content_html": "<p>Nice to see the <a href=\"https://guitars.com/gruhn-guitars-story\">Gruhn Guitars</a> mural underway again. 🎸</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2020/43f530789e.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Nice to see the [Gruhn Guitars](https://guitars.com/gruhn-guitars-story) mural underway again. 🎸\n\n<img src=\"https://yeager.wtf/uploads/2020/43f530789e.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Nice to see the <a href=\"https://guitars.com/gruhn-guitars-story\">Gruhn Guitars</a> mural underway again. 🎸</p>\n\n<p><img src=\"uploads/2020/43f530789e.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Nice to see the [Gruhn Guitars](https://guitars.com/gruhn-guitars-story) mural underway again. 🎸\n\n<img src=\"uploads/2020/43f530789e.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-08-11T04:11:51+00:00",
 				"url": "https://yeager.wtf/2020/08/10/nice-to-see.html"
 			},
 			{
 				"id": "http://shawnyeager.micro.blog/2020/08/09/tonights-sunset-in.html",
 				
-				"content_html": "<p>Tonight’s sunset in Nashville</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2020/40e9071548.jpg\" width=\"600\" height=\"449\" alt=\"\" /></p>\n",
-				"content_text": "Tonight’s sunset in Nashville\n\n<img src=\"https://yeager.wtf/uploads/2020/40e9071548.jpg\" width=\"600\" height=\"449\" alt=\"\" />\n",
+				"content_html": "<p>Tonight’s sunset in Nashville</p>\n\n<p><img src=\"uploads/2020/40e9071548.jpg\" width=\"600\" height=\"449\" alt=\"\" /></p>\n",
+				"content_text": "Tonight’s sunset in Nashville\n\n<img src=\"uploads/2020/40e9071548.jpg\" width=\"600\" height=\"449\" alt=\"\" />\n",
 				"date_published": "2020-08-10T00:32:19+00:00",
 				"url": "https://yeager.wtf/2020/08/09/tonights-sunset-in.html"
 			},
@@ -839,8 +847,8 @@
 			{
 				"id": "http://shawnyeager.micro.blog/2020/08/02/released-just-three.html",
 				
-				"content_html": "<p>Released just three weeks ago, My Morning Jacket’s <em><a href=\"https://music.apple.com/us/album/the-waterfall-ii/1516417364\">The Waterfall II</a></em> is shaping up to be one of my favorite albums of the year.</p>\n\n<p>The more I listen, the more nuance I pick up in the writing, melodies, rhythms, and engineering. So good.</p>\n\n<p>🎵</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2020/1901629388.jpg\" width=\"316\" height=\"316\" alt=\"\" /></p>\n",
-				"content_text": "Released just three weeks ago, My Morning Jacket’s *[The Waterfall II](https://music.apple.com/us/album/the-waterfall-ii/1516417364)* is shaping up to be one of my favorite albums of the year.\n\nThe more I listen, the more nuance I pick up in the writing, melodies, rhythms, and engineering. So good.\n\n🎵\n\n<img src=\"https://yeager.wtf/uploads/2020/1901629388.jpg\" width=\"316\" height=\"316\" alt=\"\" />\n",
+				"content_html": "<p>Released just three weeks ago, My Morning Jacket’s <em><a href=\"https://music.apple.com/us/album/the-waterfall-ii/1516417364\">The Waterfall II</a></em> is shaping up to be one of my favorite albums of the year.</p>\n\n<p>The more I listen, the more nuance I pick up in the writing, melodies, rhythms, and engineering. So good.</p>\n\n<p>🎵</p>\n\n<p><img src=\"uploads/2020/1901629388.jpg\" width=\"316\" height=\"316\" alt=\"\" /></p>\n",
+				"content_text": "Released just three weeks ago, My Morning Jacket’s *[The Waterfall II](https://music.apple.com/us/album/the-waterfall-ii/1516417364)* is shaping up to be one of my favorite albums of the year.\n\nThe more I listen, the more nuance I pick up in the writing, melodies, rhythms, and engineering. So good.\n\n🎵\n\n<img src=\"uploads/2020/1901629388.jpg\" width=\"316\" height=\"316\" alt=\"\" />\n",
 				"date_published": "2020-08-02T15:56:05+00:00",
 				"url": "https://yeager.wtf/2020/08/02/released-just-three.html",
 				"tags": ["Music"]
@@ -848,16 +856,16 @@
 			{
 				"id": "http://shawnyeager.micro.blog/2020/07/31/this-one-stings.html",
 				
-				"content_html": "<p>This one stings.</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2020/7be360f30f.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "This one stings.\n\n<img src=\"https://yeager.wtf/uploads/2020/7be360f30f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>This one stings.</p>\n\n<p><img src=\"uploads/2020/7be360f30f.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "This one stings.\n\n<img src=\"uploads/2020/7be360f30f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-07-31T22:25:26+00:00",
 				"url": "https://yeager.wtf/2020/07/31/this-one-stings.html"
 			},
 			{
 				"id": "http://shawnyeager.micro.blog/2020/07/29/well-this-blew.html",
 				
-				"content_html": "<p>Well, this blew my mind: <a href=\"https://github.com/felixrieseberg/macintosh.js/\">macintosh.js</a>.</p>\n\n<blockquote>\n<p>This is Mac OS 8, running in an Electron app pretending to be a 1991 Macintosh Quadra. Yes, it&rsquo;s the full thing. I&rsquo;m sorry.</p>\n</blockquote>\n\n<p>My second Mac was a Quadra 950, purchased in 1991. Twenty-nine years later, here&rsquo;s an emulator of that beast of a machine running on my MacBook Pro.</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2020/2bac773f10.png\" width=\"600\" height=\"499\" alt=\"\" /></p>\n",
-				"content_text": "Well, this blew my mind: [macintosh.js](https://github.com/felixrieseberg/macintosh.js/).\n\n> This is Mac OS 8, running in an Electron app pretending to be a 1991 Macintosh Quadra. Yes, it's the full thing. I'm sorry.\n\nMy second Mac was a Quadra 950, purchased in 1991. Twenty-nine years later, here's an emulator of that beast of a machine running on my MacBook Pro.\n\n<img src=\"https://yeager.wtf/uploads/2020/2bac773f10.png\" width=\"600\" height=\"499\" alt=\"\" />\n",
+				"content_html": "<p>Well, this blew my mind: <a href=\"https://github.com/felixrieseberg/macintosh.js/\">macintosh.js</a>.</p>\n\n<blockquote>\n<p>This is Mac OS 8, running in an Electron app pretending to be a 1991 Macintosh Quadra. Yes, it&rsquo;s the full thing. I&rsquo;m sorry.</p>\n</blockquote>\n\n<p>My second Mac was a Quadra 950, purchased in 1991. Twenty-nine years later, here&rsquo;s an emulator of that beast of a machine running on my MacBook Pro.</p>\n\n<p><img src=\"uploads/2020/2bac773f10.png\" width=\"600\" height=\"499\" alt=\"\" /></p>\n",
+				"content_text": "Well, this blew my mind: [macintosh.js](https://github.com/felixrieseberg/macintosh.js/).\n\n> This is Mac OS 8, running in an Electron app pretending to be a 1991 Macintosh Quadra. Yes, it's the full thing. I'm sorry.\n\nMy second Mac was a Quadra 950, purchased in 1991. Twenty-nine years later, here's an emulator of that beast of a machine running on my MacBook Pro.\n\n<img src=\"uploads/2020/2bac773f10.png\" width=\"600\" height=\"499\" alt=\"\" />\n",
 				"date_published": "2020-07-30T03:05:00+00:00",
 				"url": "https://yeager.wtf/2020/07/29/well-this-blew.html",
 				"tags": ["Tech"]
@@ -874,8 +882,8 @@
 			{
 				"id": "http://shawnyeager.micro.blog/2020/07/28/its-trade-coffee.html",
 				
-				"content_html": "<p>It’s <a href=\"http://s.trdcfe.me/336ph7\">Trade Coffee</a> delivery day. Your darkest, you say? Challenge accepted. ☕️</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2020/e79833207f.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "It’s [Trade Coffee](http://s.trdcfe.me/336ph7) delivery day. Your darkest, you say? Challenge accepted. ☕️ \n\n<img src=\"https://yeager.wtf/uploads/2020/e79833207f.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>It’s <a href=\"http://s.trdcfe.me/336ph7\">Trade Coffee</a> delivery day. Your darkest, you say? Challenge accepted. ☕️</p>\n\n<p><img src=\"uploads/2020/e79833207f.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "It’s [Trade Coffee](http://s.trdcfe.me/336ph7) delivery day. Your darkest, you say? Challenge accepted. ☕️ \n\n<img src=\"uploads/2020/e79833207f.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-07-28T21:34:59+00:00",
 				"url": "https://yeager.wtf/2020/07/28/its-trade-coffee.html"
 			},
@@ -898,8 +906,8 @@
 			{
 				"id": "http://shawnyeager.micro.blog/2020/07/26/shiny-new-kit.html",
 				
-				"content_html": "<p>Shiny new kit assembled and running <a href=\"https://getumbrel.com\">Umbrel</a> Bitcoin and Lightning full node.</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2020/517c578eeb.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://yeager.wtf/uploads/2020/5e97663b64.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Shiny new kit assembled and running [Umbrel](https://getumbrel.com) Bitcoin and Lightning full node.\n\n<img src=\"https://yeager.wtf/uploads/2020/517c578eeb.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://yeager.wtf/uploads/2020/5e97663b64.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Shiny new kit assembled and running <a href=\"https://getumbrel.com\">Umbrel</a> Bitcoin and Lightning full node.</p>\n\n<p><img src=\"uploads/2020/517c578eeb.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2020/5e97663b64.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Shiny new kit assembled and running [Umbrel](https://getumbrel.com) Bitcoin and Lightning full node.\n\n<img src=\"uploads/2020/517c578eeb.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2020/5e97663b64.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-07-26T22:37:00+00:00",
 				"url": "https://yeager.wtf/2020/07/26/shiny-new-kit.html",
 				"tags": ["Tech"]
@@ -907,8 +915,8 @@
 			{
 				"id": "http://shawnyeager.micro.blog/2020/07/26/todays-project-building.html",
 				
-				"content_html": "<p>Today’s project: building a new node for testing <a href=\"https://getumbrel.com/\">Umbrel</a>☂.</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2020/b94c2a03aa.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Today’s project: building a new node for testing [Umbrel](https://getumbrel.com/)☂.\n\n<img src=\"https://yeager.wtf/uploads/2020/b94c2a03aa.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Today’s project: building a new node for testing <a href=\"https://getumbrel.com/\">Umbrel</a>☂.</p>\n\n<p><img src=\"uploads/2020/b94c2a03aa.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Today’s project: building a new node for testing [Umbrel](https://getumbrel.com/)☂.\n\n<img src=\"uploads/2020/b94c2a03aa.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-07-26T15:07:00+00:00",
 				"url": "https://yeager.wtf/2020/07/26/todays-project-building.html",
 				"tags": ["Tech"]
@@ -916,8 +924,8 @@
 			{
 				"id": "http://shawnyeager.micro.blog/2020/07/25/illiterate-light-are.html",
 				"title": "I miss live music.",
-				"content_html": "<p><a href=\"https://www.illiteratelight.com/\">Illiterate Light</a> are one of my top new bands of 2020. They’ve just followed up their self-titled debut with a live EP. It makes for bitter-sweet listening.</p>\n\n<p>Two of the new recordings were made here in Nashville, at indie venue Basement East. It was <a href=\"https://www.billboard.com/articles/columns/country/9331573/nashville-responds-tornado-coronavirus-country-music\">all but destroyed</a> in March of this year by a tornado.</p>\n\n<p><figure>\n<img src=\"https://yeager.wtf/uploads/2020/eb0d56d5ab.jpg\" width=\"600\" height=\"397\" alt=\"Basement East after tornado strikes\" />\n<figcaption>\n    Credit: Billboard\n</figcaption>\n</figure></p>\n\n<p>I miss live music. More than that, my heart goes out to all those in the arts struggling to make it through this pandemic.</p>\n\n<p>🎵 “<a href=\"https://music.apple.com/us/album/carolina-lorelei-live-at-the-basement-east/1523720730?i=1523720734\">Carloline Lorelei (Live at The Basement)</a>”</p>\n",
-				"content_text": "[Illiterate Light](https://www.illiteratelight.com/) are one of my top new bands of 2020. They’ve just followed up their self-titled debut with a live EP. It makes for bitter-sweet listening.\n\nTwo of the new recordings were made here in Nashville, at indie venue Basement East. It was [all but destroyed](https://www.billboard.com/articles/columns/country/9331573/nashville-responds-tornado-coronavirus-country-music) in March of this year by a tornado.\n\n<p><figure>\n<img src=\"https://yeager.wtf/uploads/2020/eb0d56d5ab.jpg\" width=\"600\" height=\"397\" alt=\"Basement East after tornado strikes\" />\n<figcaption>\n\tCredit: Billboard\n</figcaption>\n</figure></p>\n\nI miss live music. More than that, my heart goes out to all those in the arts struggling to make it through this pandemic.\n\n🎵 “[Carloline Lorelei (Live at The Basement)](https://music.apple.com/us/album/carolina-lorelei-live-at-the-basement-east/1523720730?i=1523720734)”\n",
+				"content_html": "<p><a href=\"https://www.illiteratelight.com/\">Illiterate Light</a> are one of my top new bands of 2020. They’ve just followed up their self-titled debut with a live EP. It makes for bitter-sweet listening.</p>\n\n<p>Two of the new recordings were made here in Nashville, at indie venue Basement East. It was <a href=\"https://www.billboard.com/articles/columns/country/9331573/nashville-responds-tornado-coronavirus-country-music\">all but destroyed</a> in March of this year by a tornado.</p>\n\n<p><figure>\n<img src=\"uploads/2020/eb0d56d5ab.jpg\" width=\"600\" height=\"397\" alt=\"Basement East after tornado strikes\" />\n<figcaption>\n    Credit: Billboard\n</figcaption>\n</figure></p>\n\n<p>I miss live music. More than that, my heart goes out to all those in the arts struggling to make it through this pandemic.</p>\n\n<p>🎵 “<a href=\"https://music.apple.com/us/album/carolina-lorelei-live-at-the-basement-east/1523720730?i=1523720734\">Carloline Lorelei (Live at The Basement)</a>”</p>\n",
+				"content_text": "[Illiterate Light](https://www.illiteratelight.com/) are one of my top new bands of 2020. They’ve just followed up their self-titled debut with a live EP. It makes for bitter-sweet listening.\n\nTwo of the new recordings were made here in Nashville, at indie venue Basement East. It was [all but destroyed](https://www.billboard.com/articles/columns/country/9331573/nashville-responds-tornado-coronavirus-country-music) in March of this year by a tornado.\n\n<p><figure>\n<img src=\"uploads/2020/eb0d56d5ab.jpg\" width=\"600\" height=\"397\" alt=\"Basement East after tornado strikes\" />\n<figcaption>\n\tCredit: Billboard\n</figcaption>\n</figure></p>\n\nI miss live music. More than that, my heart goes out to all those in the arts struggling to make it through this pandemic.\n\n🎵 “[Carloline Lorelei (Live at The Basement)](https://music.apple.com/us/album/carolina-lorelei-live-at-the-basement-east/1523720730?i=1523720734)”\n",
 				"date_published": "2020-07-25T22:39:00+00:00",
 				"url": "https://yeager.wtf/2020/07/25/illiterate-light-are.html",
 				"tags": ["Music"]
@@ -925,8 +933,8 @@
 			{
 				"id": "http://shawnyeager.micro.blog/2020/07/24/153619.html",
 				
-				"content_html": "<p>🎵 My top pick for this #NewMusicFriday: “<a href=\"https://music.apple.com/us/album/wristwatch/1508549329?i=1508549338\">Wristwatch</a>” by Husky, from their new prerelease album, <em>Stardust Blues</em>.</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2020/671cb60239.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "🎵 My top pick for this #NewMusicFriday: “[Wristwatch](https://music.apple.com/us/album/wristwatch/1508549329?i=1508549338)” by Husky, from their new prerelease album, *Stardust Blues*.\n\n\n\n<img src=\"https://yeager.wtf/uploads/2020/671cb60239.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>🎵 My top pick for this #NewMusicFriday: “<a href=\"https://music.apple.com/us/album/wristwatch/1508549329?i=1508549338\">Wristwatch</a>” by Husky, from their new prerelease album, <em>Stardust Blues</em>.</p>\n\n<p><img src=\"uploads/2020/671cb60239.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "🎵 My top pick for this #NewMusicFriday: “[Wristwatch](https://music.apple.com/us/album/wristwatch/1508549329?i=1508549338)” by Husky, from their new prerelease album, *Stardust Blues*.\n\n\n\n<img src=\"uploads/2020/671cb60239.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-07-24T20:36:19+00:00",
 				"url": "https://yeager.wtf/2020/07/24/153619.html",
 				"tags": ["Music"]
@@ -970,8 +978,8 @@
 			{
 				"id": "http://shawnyeager.micro.blog/2020/07/18/a-magnificent-sunset.html",
 				
-				"content_html": "<p>A magnificent sunset tonight</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2020/f81ccdd63c.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://yeager.wtf/uploads/2020/572d17a8dc.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "A magnificent sunset tonight\n\n<img src=\"https://yeager.wtf/uploads/2020/f81ccdd63c.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://yeager.wtf/uploads/2020/572d17a8dc.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>A magnificent sunset tonight</p>\n\n<p><img src=\"uploads/2020/f81ccdd63c.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2020/572d17a8dc.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "A magnificent sunset tonight\n\n<img src=\"uploads/2020/f81ccdd63c.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2020/572d17a8dc.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-07-19T01:13:24+00:00",
 				"url": "https://yeager.wtf/2020/07/18/a-magnificent-sunset.html"
 			},
@@ -1004,16 +1012,16 @@
 			{
 				"id": "http://shawnyeager.micro.blog/2020/07/16/the-new-arrivals.html",
 				
-				"content_html": "<p>Seems a shame that my zoom-mates won’t see my snazzy new #proofofsocks from <a href=\"https://mtsocks.com\">MtSocks</a>.</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2020/f19e85cb1d.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Seems a shame that my zoom-mates won’t see my snazzy new #proofofsocks from [MtSocks](https://mtsocks.com).\n\n<img src=\"https://yeager.wtf/uploads/2020/f19e85cb1d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Seems a shame that my zoom-mates won’t see my snazzy new #proofofsocks from <a href=\"https://mtsocks.com\">MtSocks</a>.</p>\n\n<p><img src=\"uploads/2020/f19e85cb1d.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Seems a shame that my zoom-mates won’t see my snazzy new #proofofsocks from [MtSocks](https://mtsocks.com).\n\n<img src=\"uploads/2020/f19e85cb1d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-07-17T00:28:35+00:00",
 				"url": "https://yeager.wtf/2020/07/16/the-new-arrivals.html"
 			},
 			{
 				"id": "http://shawnyeager.micro.blog/2020/07/16/massive-attack-weigh.html",
 				
-				"content_html": "<p>🎵 Massive Attack weigh in on universal basic income and the state of the world with a new track and <a href=\"https://www.youtube.com/watch?v=a-1YI-neupU&amp;feature=youtu.be\">short film</a>. Whatever one&rsquo;s views on UBI, it&rsquo;s worth a watch and listen.</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2020/a9b02c7c9e.png\" width=\"599\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "🎵 Massive Attack weigh in on universal basic income and the state of the world with a new track and [short film](https://www.youtube.com/watch?v=a-1YI-neupU&feature=youtu.be). Whatever one's views on UBI, it's worth a watch and listen.\n\n<img src=\"https://yeager.wtf/uploads/2020/a9b02c7c9e.png\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>🎵 Massive Attack weigh in on universal basic income and the state of the world with a new track and <a href=\"https://www.youtube.com/watch?v=a-1YI-neupU&amp;feature=youtu.be\">short film</a>. Whatever one&rsquo;s views on UBI, it&rsquo;s worth a watch and listen.</p>\n\n<p><img src=\"uploads/2020/a9b02c7c9e.png\" width=\"599\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "🎵 Massive Attack weigh in on universal basic income and the state of the world with a new track and [short film](https://www.youtube.com/watch?v=a-1YI-neupU&feature=youtu.be). Whatever one's views on UBI, it's worth a watch and listen.\n\n<img src=\"uploads/2020/a9b02c7c9e.png\" width=\"599\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-07-16T17:29:52+00:00",
 				"url": "https://yeager.wtf/2020/07/16/massive-attack-weigh.html",
 				"tags": ["Music"]
@@ -1021,24 +1029,24 @@
 			{
 				"id": "http://shawnyeager.micro.blog/2020/07/14/123837.html",
 				
-				"content_html": "<p>☁️</p>\n\n<p><a href=\"https://yeager.wtf/uploads/2020/b44e21334f.jpg\"><img src=\"https://yeager.wtf/uploads/2020/b44e21334f.jpg\" width=\"600\" height=\"446\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "☁️\n\n<a href=\"https://yeager.wtf/uploads/2020/b44e21334f.jpg\"><img src=\"https://yeager.wtf/uploads/2020/b44e21334f.jpg\" width=\"600\" height=\"446\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_html": "<p>☁️</p>\n\n<p><a href=\"https://yeager.wtf/uploads/2020/b44e21334f.jpg\"><img src=\"uploads/2020/b44e21334f.jpg\" width=\"600\" height=\"446\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "☁️\n\n<a href=\"https://yeager.wtf/uploads/2020/b44e21334f.jpg\"><img src=\"uploads/2020/b44e21334f.jpg\" width=\"600\" height=\"446\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-07-14T17:38:37+00:00",
 				"url": "https://yeager.wtf/2020/07/14/123837.html"
 			},
 			{
 				"id": "http://shawnyeager.micro.blog/2020/07/13/my-latest-arrival.html",
 				
-				"content_html": "<p>☕️ My latest arrival from <a href=\"http://s.trdcfe.me/336ph7\">Trade Coffee</a>: <a href=\"https://onyxcoffeelab.com/\">Onyx Coffee Lab</a>’s Eclipse. Love the packaging.</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2020/7443e9c72a.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "☕️ My latest arrival from [Trade Coffee](http://s.trdcfe.me/336ph7): [Onyx Coffee Lab](https://onyxcoffeelab.com/)’s Eclipse. Love the packaging.\n\n<img src=\"https://yeager.wtf/uploads/2020/7443e9c72a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>☕️ My latest arrival from <a href=\"http://s.trdcfe.me/336ph7\">Trade Coffee</a>: <a href=\"https://onyxcoffeelab.com/\">Onyx Coffee Lab</a>’s Eclipse. Love the packaging.</p>\n\n<p><img src=\"uploads/2020/7443e9c72a.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "☕️ My latest arrival from [Trade Coffee](http://s.trdcfe.me/336ph7): [Onyx Coffee Lab](https://onyxcoffeelab.com/)’s Eclipse. Love the packaging.\n\n<img src=\"uploads/2020/7443e9c72a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-07-14T00:09:24+00:00",
 				"url": "https://yeager.wtf/2020/07/13/my-latest-arrival.html"
 			},
 			{
 				"id": "http://shawnyeager.micro.blog/2020/07/12/excited-to-dig.html",
 				
-				"content_html": "<p>📚 Eager to dig into <em><a href=\"https://www.goodreads.com/book/show/50157837\">The Price of Tomorrow</a></em>, at a time when the US Fed is printing trillions of dollars out of thin air.</p>\n\n<p><img src=\"https://yeager.wtf/uploads/2020/830ff98315.jpg\" width=\"391\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "📚 Eager to dig into _[The Price of Tomorrow](https://www.goodreads.com/book/show/50157837)_, at a time when the US Fed is printing trillions of dollars out of thin air. \n\n<img src=\"https://yeager.wtf/uploads/2020/830ff98315.jpg\" width=\"391\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>📚 Eager to dig into <em><a href=\"https://www.goodreads.com/book/show/50157837\">The Price of Tomorrow</a></em>, at a time when the US Fed is printing trillions of dollars out of thin air.</p>\n\n<p><img src=\"uploads/2020/830ff98315.jpg\" width=\"391\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "📚 Eager to dig into _[The Price of Tomorrow](https://www.goodreads.com/book/show/50157837)_, at a time when the US Fed is printing trillions of dollars out of thin air. \n\n<img src=\"uploads/2020/830ff98315.jpg\" width=\"391\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-07-13T03:08:47+00:00",
 				"url": "https://yeager.wtf/2020/07/12/excited-to-dig.html",
 				"tags": ["Books"]
@@ -1054,8 +1062,8 @@
 			{
 				"id": "http://shawnyeager.micro.blog/2020/07/12/im-endlessly-fascinated.html",
 				
-				"content_html": "<p>I’m endlessly fascinated by clouds.</p>\n\n<p><a href=\"https://yeager.wtf/uploads/2020/9758acae24.jpg\"><img src=\"https://yeager.wtf/uploads/2020/9758acae24.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "I’m endlessly fascinated by clouds.\n\n<a href=\"https://yeager.wtf/uploads/2020/9758acae24.jpg\"><img src=\"https://yeager.wtf/uploads/2020/9758acae24.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_html": "<p>I’m endlessly fascinated by clouds.</p>\n\n<p><a href=\"https://yeager.wtf/uploads/2020/9758acae24.jpg\"><img src=\"uploads/2020/9758acae24.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "I’m endlessly fascinated by clouds.\n\n<a href=\"https://yeager.wtf/uploads/2020/9758acae24.jpg\"><img src=\"uploads/2020/9758acae24.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-07-12T23:20:10+00:00",
 				"url": "https://yeager.wtf/2020/07/12/im-endlessly-fascinated.html"
 			},
@@ -1079,8 +1087,8 @@
 			{
 				"id": "http://shawnyeager.micro.blog/2020/07/11/magic-trackpad.html",
 				
-				"content_html": "<p><p>After six years of daily use, my original Magic Trackpad gave up the ghost. The replacement has arrived. What a brilliant bit of industrial design.</p>\n<p></p>\n<img src=\"https://yeager.wtf/uploads/2020/1deaedda6b.jpg\" alt=\"\" /></p>\n",
-				"content_text": "<p>After six years of daily use, my original Magic Trackpad gave up the ghost. The replacement has arrived. What a brilliant bit of industrial design.</p>\n<p></p>\n<img src=\"https://yeager.wtf/uploads/2020/1deaedda6b.jpg\" alt=\"\" />\n",
+				"content_html": "<p><p>After six years of daily use, my original Magic Trackpad gave up the ghost. The replacement has arrived. What a brilliant bit of industrial design.</p>\n<p></p>\n<img src=\"uploads/2020/1deaedda6b.jpg\" alt=\"\" /></p>\n",
+				"content_text": "<p>After six years of daily use, my original Magic Trackpad gave up the ghost. The replacement has arrived. What a brilliant bit of industrial design.</p>\n<p></p>\n<img src=\"uploads/2020/1deaedda6b.jpg\" alt=\"\" />\n",
 				"date_published": "2020-07-12T04:32:00+00:00",
 				"url": "https://yeager.wtf/2020/07/11/magic-trackpad.html",
 				"tags": ["Tech"]
@@ -1088,8 +1096,8 @@
 			{
 				"id": "http://shawnyeager.micro.blog/2020/07/11/i-have-sufjan.html",
 				
-				"content_html": "<p>🎵 I have Sufjan Steven’s new track, “<a href=\"https://music.apple.com/us/album/america/1514517219?i=1514517224\">America</a>”, on repeat today. All 12:30 of it.</p>\n\n<p><img src=\"https://shawnyeager.micro.blog/uploads/2020/8a0953212d.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "🎵 I have Sufjan Steven’s new track, “[America](https://music.apple.com/us/album/america/1514517219?i=1514517224)”, on repeat today. All 12:30 of it.\n\n<img src=\"https://shawnyeager.micro.blog/uploads/2020/8a0953212d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>🎵 I have Sufjan Steven’s new track, “<a href=\"https://music.apple.com/us/album/america/1514517219?i=1514517224\">America</a>”, on repeat today. All 12:30 of it.</p>\n\n<p><img src=\"uploads/2020/8a0953212d.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "🎵 I have Sufjan Steven’s new track, “[America](https://music.apple.com/us/album/america/1514517219?i=1514517224)”, on repeat today. All 12:30 of it.\n\n<img src=\"uploads/2020/8a0953212d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-07-11T22:48:00+00:00",
 				"url": "https://yeager.wtf/2020/07/11/i-have-sufjan.html",
 				"tags": ["Music"]
@@ -1097,8 +1105,8 @@
 			{
 				"id": "http://shawnyeager.micro.blog/2020/07/11/if-you-know.html",
 				
-				"content_html": "<p>If you know, you know.</p>\n\n<p><a href=\"https://shawnyeager.micro.blog/uploads/2020/a9263da025.jpg\"><img src=\"https://shawnyeager.micro.blog/uploads/2020/a9263da025.jpg\" width=\"600\" height=\"405\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p><em>Credit: Unknown</em></p>\n",
-				"content_text": "If you know, you know.\n\n<a href=\"https://shawnyeager.micro.blog/uploads/2020/a9263da025.jpg\"><img src=\"https://shawnyeager.micro.blog/uploads/2020/a9263da025.jpg\" width=\"600\" height=\"405\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n*Credit: Unknown*\n",
+				"content_html": "<p>If you know, you know.</p>\n\n<p><a href=\"https://shawnyeager.micro.blog/uploads/2020/a9263da025.jpg\"><img src=\"uploads/2020/a9263da025.jpg\" width=\"600\" height=\"405\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p><em>Credit: Unknown</em></p>\n",
+				"content_text": "If you know, you know.\n\n<a href=\"https://shawnyeager.micro.blog/uploads/2020/a9263da025.jpg\"><img src=\"uploads/2020/a9263da025.jpg\" width=\"600\" height=\"405\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n*Credit: Unknown*\n",
 				"date_published": "2020-07-11T22:26:00+00:00",
 				"url": "https://yeager.wtf/2020/07/11/if-you-know.html"
 			}
