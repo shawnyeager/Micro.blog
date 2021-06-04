@@ -7,6 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://shawnyeager.micro.blog/2021/06/04/take-a-dip.html",
+				
+				"content_html": "<p>Take a dip.</p>\n\n<p><img src=\"uploads/2021/d7d9b8851c.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
+				"content_text": "Take a dip.\n\n<img src=\"uploads/2021/d7d9b8851c.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"date_published": "2021-06-04T19:38:29+01:00",
+				"url": "https://yeager.wtf/2021/06/04/take-a-dip.html"
+			},
+			{
+				"id": "http://shawnyeager.micro.blog/2021/06/01/east-side-v.html",
+				
+				"content_html": "<p>East side, West side</p>\n\n<p><img src=\"uploads/2021/972ebe989f.jpg\" width=\"600\" height=\"449\" alt=\"\" /></p>\n",
+				"content_text": "East side, West side\n\n<img src=\"uploads/2021/972ebe989f.jpg\" width=\"600\" height=\"449\" alt=\"\" />\n",
+				"date_published": "2021-06-01T08:33:14+01:00",
+				"url": "https://yeager.wtf/2021/06/01/east-side-v.html"
+			},
+			{
+				"id": "http://shawnyeager.micro.blog/2021/05/30/never-gets-old.html",
+				
+				"content_html": "<p>Never gets old.</p>\n\n<p><img src=\"uploads/2021/c42af1752f.jpg\" width=\"600\" height=\"599\" alt=\"\" /><img src=\"uploads/2021/0a22213370.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
+				"content_text": "Never gets old.\n\n<img src=\"uploads/2021/c42af1752f.jpg\" width=\"600\" height=\"599\" alt=\"\" /><img src=\"uploads/2021/0a22213370.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"date_published": "2021-05-30T22:11:10+01:00",
+				"url": "https://yeager.wtf/2021/05/30/never-gets-old.html"
+			},
+			{
+				"id": "http://shawnyeager.micro.blog/2021/05/28/friday-afternoon-thinknstroll.html",
+				
+				"content_html": "<p>Friday afternoon think-n-stroll</p>\n\n<p><img src=\"uploads/2021/1f48d98cd9.jpg\" width=\"337\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Friday afternoon think-n-stroll\n\n<img src=\"uploads/2021/1f48d98cd9.jpg\" width=\"337\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-05-28T16:02:55+01:00",
+				"url": "https://yeager.wtf/2021/05/28/friday-afternoon-thinknstroll.html"
+			},
+			{
+				"id": "http://shawnyeager.micro.blog/2021/05/26/travel-is-fatal.html",
+				
+				"content_html": "<p>“Travel is fatal to prejudice, bigotry, and narrow-mindedness.” —Mark Twain</p>\n\n<p>💬</p>\n\n<p><img src=\"uploads/2021/eb8743751a.jpg\" width=\"576\" height=\"577\" alt=\"\" /></p>\n",
+				"content_text": "“Travel is fatal to prejudice, bigotry, and narrow-mindedness.” —Mark Twain\n\n💬\n\n<img src=\"uploads/2021/eb8743751a.jpg\" width=\"576\" height=\"577\" alt=\"\" />\n",
+				"date_published": "2021-05-26T10:17:12+01:00",
+				"url": "https://yeager.wtf/2021/05/26/travel-is-fatal.html"
+			},
+			{
 				"id": "http://shawnyeager.micro.blog/2021/05/25/this-is-beautiful.html",
 				
 				"content_html": "<p>This is beautiful.</p>\n\n<blockquote>\n<p>Some periods of our growth are so confusing that we don’t even recognise that growth is happening. We may feel hostile or angry or weepy and hysterical, or we may feel depressed. It would never occur to us, unless we stumbled on a book or a person who explained to us, that we were in fact in the process of change, of actually becoming larger, spiritually, than we were before.</p>\n\n<p>Those long periods when something inside ourselves seems to be waiting, holding its breath, unsure about what the next step should be, eventually become the periods we wait for, for it is in those periods that we realise that we are being prepared for the next phase of our life and that, in all probability, a new level of the personality is about to be revealed.</p>\n</blockquote>\n\n<p>—<a href=\"https://alicewalkersgarden.com/\">Alice Walker</a></p>\n\n<p>💬</p>\n",
