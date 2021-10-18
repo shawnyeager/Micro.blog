@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://shawnyeager.micro.blog/2021/10/18/134544.html",
+				
+				"content_html": "<p>🌅</p>\n\n<p><img src=\"uploads/2021/e069a43bbc.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "🌅\n\n<img src=\"uploads/2021/e069a43bbc.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-10-18T13:45:44+01:00",
+				"url": "https://yeager.wtf/2021/10/18/134544.html"
+			},
+			{
+				"id": "http://shawnyeager.micro.blog/2021/10/15/it-seems-to.html",
+				
+				"content_html": "<p>“It seems to be a law of nature, inflexible and inexorable, that those who will not risk cannot win.”\n—John Paul Jones</p>\n\n<p>💬</p>\n",
+				"content_text": "“It seems to be a law of nature, inflexible and inexorable, that those who will not risk cannot win.”\n—John Paul Jones\n\n💬\n",
+				"date_published": "2021-10-15T16:14:01+01:00",
+				"url": "https://yeager.wtf/2021/10/15/it-seems-to.html"
+			},
+			{
+				"id": "http://shawnyeager.micro.blog/2021/10/11/through-our-eyes.html",
+				
+				"content_html": "<p>“Through our eyes, the universe is perceiving itself. Through our ears, the universe is listening to its harmonies. We are the witnesses through which the universe becomes conscious of its glory, of its magnificence.” —Alan Watts</p>\n\n<p>💬</p>\n",
+				"content_text": "“Through our eyes, the universe is perceiving itself. Through our ears, the universe is listening to its harmonies. We are the witnesses through which the universe becomes conscious of its glory, of its magnificence.” —Alan Watts\n\n💬\n",
+				"date_published": "2021-10-11T09:19:35+01:00",
+				"url": "https://yeager.wtf/2021/10/11/through-our-eyes.html"
+			},
+			{
 				"id": "http://shawnyeager.micro.blog/2021/10/10/214618.html",
 				
 				"content_html": "<p><img src=\"uploads/2021/b1c9f49cf8.jpg\" width=\"599\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/4acd829e2d.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
