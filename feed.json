@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://shawnyeager.micro.blog/2022/04/30/one-of-the.html",
+				
+				"content_html": "<p>&ldquo;One of the most perilous illusions is that your real life has not yet begun, that your present existence is a mere prelude to some idyllic future. This idyll is a mirage that will fade as you approach, revealing the prelude you hurried through was in fact the one to your death.&rdquo; —Gurwinder</p>\n<p>💬</p>\n",
+				"content_text": "\"One of the most perilous illusions is that your real life has not yet begun, that your present existence is a mere prelude to some idyllic future. This idyll is a mirage that will fade as you approach, revealing the prelude you hurried through was in fact the one to your death.\" —Gurwinder\n\n💬\n",
+				"date_published": "2022-04-30T07:55:44-05:00",
+				"url": "https://shawnyeager.org/2022/04/30/one-of-the.html"
+			},
+			{
+				"id": "http://shawnyeager.micro.blog/2022/04/19/its-been-a.html",
+				
+				"content_html": "<p>It’s been a long time since I rock ‘n’ rolled.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "It’s been a long time since I rock ‘n’ rolled.\n\n<img src=\"uploads/2022/c6294376db.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-04-19T17:13:09-05:00",
+				"url": "https://shawnyeager.org/2022/04/19/its-been-a.html"
+			},
+			{
 				"id": "http://shawnyeager.micro.blog/2022/04/16/i-made-a.html",
 				
 				"content_html": "<p>I made a friend at Bitcoin 2022. My son was far less amused than I was. 🫤</p>\n<!-- raw HTML omitted -->\n",
@@ -34,7 +50,7 @@
 				"id": "http://shawnyeager.micro.blog/2022/03/24/the-l.html",
 				
 				"content_html": "<p>The L</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The L\n\n<img src=\"uploads/2022/1cfd28015c.jpg\" width=\"478\" height=\"600\" alt=\"\" />\n",
+				"content_text": "The L\n\n<img src=\"https://shawnyeager.org/uploads/2022/1cfd28015c.jpg\" width=\"478\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-03-24T12:55:24-05:00",
 				"url": "https://shawnyeager.org/2022/03/24/the-l.html"
 			},
@@ -42,7 +58,7 @@
 				"id": "http://shawnyeager.micro.blog/2022/03/14/173514.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"uploads/2022/9611374627.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"https://shawnyeager.org/uploads/2022/9611374627.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-03-14T18:35:14-05:00",
 				"url": "https://shawnyeager.org/2022/03/14/173514.html"
 			},
