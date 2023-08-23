@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://shawnyeager.micro.blog/2023/08/22/buckets-and-books.html",
+				
+				"content_html": "<p>Buckets and books at the library</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Buckets and books at the library\n\n\n<img src=\"uploads/2023/bc15568f55.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-08-22T19:54:08-05:00",
+				"url": "https://shawnyeager.org/2023/08/22/buckets-and-books.html"
+			},
+			{
 				"id": "http://shawnyeager.micro.blog/2023/07/19/the-past-is.html",
 				
 				"content_html": "<p>&ldquo;The past is always tense, the future perfect.&rdquo;\n—Zadie Smith</p>\n<p>💬</p>\n",
@@ -42,7 +50,7 @@
 				"id": "http://shawnyeager.micro.blog/2023/07/09/154423.html",
 				
 				"content_html": "<p>🌝</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "🌝\n\n<img src=\"uploads/2023/59fcc313f3.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "🌝\n\n<img src=\"https://cdn.uploads.micro.blog/25292/2023/59fcc313f3.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-07-09T09:44:23-05:00",
 				"url": "https://shawnyeager.org/2023/07/09/154423.html"
 			},
