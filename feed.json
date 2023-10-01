@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://shawnyeager.micro.blog/2023/10/01/little-mans-grand.html",
+				
+				"content_html": "<p>Little Man’s grand designs.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Little Man’s grand designs.\n\n<img src=\"uploads/2023/4ff7710423.jpg\" width=\"600\" height=\"449\" alt=\"\"><img src=\"uploads/2023/fe5eba8e1d.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
+				"date_published": "2023-10-01T16:48:50-05:00",
+				"url": "https://shawnyeager.org/2023/10/01/little-mans-grand.html"
+			},
+			{
 				"id": "http://shawnyeager.micro.blog/2023/09/24/icing-for-a.html",
 				
 				"content_html": "<p>Icing for a moment. Curls for days.</p>\n<!-- raw HTML omitted -->\n",
