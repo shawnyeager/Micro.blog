@@ -7,10 +7,18 @@
 	"items": [
 		
 			{
+				"id": "http://shawnyeager.micro.blog/2023/12/16/091521.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "\n\n<img src=\"uploads/2023/5e5597121a.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-12-16T09:15:21-06:00",
+				"url": "https://shawnyeager.org/2023/12/16/091521.html"
+			},
+			{
 				"id": "http://shawnyeager.micro.blog/2023/11/26/little-man-stops.html",
 				
 				"content_html": "<p>Little man stops to ponder life’s big questions while shopping for Christmas trees. 🌲</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Little man stops to ponder life’s big questions while shopping for Christmas trees. 🌲 \n\n<img src=\"https://cdn.uploads.micro.blog/25292/2023/08566252ef.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Little man stops to ponder life’s big questions while shopping for Christmas trees. 🌲 \n\n<img src=\"uploads/2023/08566252ef.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-11-26T18:17:32-06:00",
 				"url": "https://shawnyeager.org/2023/11/26/little-man-stops.html"
 			},
@@ -18,7 +26,7 @@
 				"id": "http://shawnyeager.micro.blog/2023/11/20/i-love-this.html",
 				
 				"content_html": "<p>I love this time of year in Nashville. 🍁</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I love this time of year in Nashville. 🍁\n\n<img src=\"https://cdn.uploads.micro.blog/25292/2023/299a79f5b7.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "I love this time of year in Nashville. 🍁\n\n<img src=\"uploads/2023/299a79f5b7.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-11-20T13:54:30-06:00",
 				"url": "https://shawnyeager.org/2023/11/20/i-love-this.html"
 			},
@@ -26,7 +34,7 @@
 				"id": "http://shawnyeager.micro.blog/2023/11/14/catharsis.html",
 				
 				"content_html": "<p>Catharsis</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Catharsis\n\n<img src=\"https://cdn.uploads.micro.blog/25292/2023/00d522ccd7.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Catharsis\n\n<img src=\"uploads/2023/00d522ccd7.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-11-13T23:11:50-06:00",
 				"url": "https://shawnyeager.org/2023/11/14/catharsis.html"
 			},
@@ -34,7 +42,7 @@
 				"id": "http://shawnyeager.micro.blog/2023/11/01/a-day-late.html",
 				
 				"content_html": "<p>A day late and a cookie short.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A day late and a cookie short.\n\n<img src=\"https://cdn.uploads.micro.blog/25292/2023/aef4137971.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "A day late and a cookie short.\n\n<img src=\"uploads/2023/aef4137971.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-11-01T22:20:10-06:00",
 				"url": "https://shawnyeager.org/2023/11/01/a-day-late.html"
 			},
@@ -42,7 +50,7 @@
 				"id": "http://shawnyeager.micro.blog/2023/10/07/ocean-blue.html",
 				
 				"content_html": "<p>Ocean blue</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Ocean blue\n\n<img src=\"https://cdn.uploads.micro.blog/25292/2023/b5947975c7.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Ocean blue\n\n<img src=\"uploads/2023/b5947975c7.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-10-07T13:08:29-06:00",
 				"url": "https://shawnyeager.org/2023/10/07/ocean-blue.html"
 			},
@@ -50,7 +58,7 @@
 				"id": "http://shawnyeager.micro.blog/2023/10/07/down-and-out.html",
 				
 				"content_html": "<p>Down and out in Santa Monica.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Down and out in Santa Monica.\n\n<img src=\"https://cdn.uploads.micro.blog/25292/2023/2955cc00c8.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Down and out in Santa Monica.\n\n<img src=\"uploads/2023/2955cc00c8.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-10-07T10:29:58-06:00",
 				"url": "https://shawnyeager.org/2023/10/07/down-and-out.html"
 			},
